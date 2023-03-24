@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI মুক্তির ভার্সন</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">যন্ত্রের মেইনটেইনার</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">ন্যাভিগেশন বার</string>
+    <string name="immersive_navigation_title">ইমারসিভ নেভিগেশন</string>
+    <string name="immersive_navigation_summary">জেসচার পিল এবং নেভিগেশন বার প্যাডিং লুকান।</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">গুগল প্লে</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="longpress_to_clipboard">কপি করতে দীর্ঘক্ষণ প্রেস করুন</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">ওয়াই-ফাই টাইপ আইকন দেখান</string>
+    <string name="show_wifi_standard_icon_summary">Wi-Fi সংকেত সূচকে Wi-Fi প্রকার দেখান</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">নিরাপদ উইন্ডো পতাকা উপেক্ষা করুন</string>
+    <string name="ignore_window_secure_summary">সমস্ত অ্যাপের জন্য স্ক্রিনশট এবং স্ক্রিন রেকর্ড সীমা সরান। এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে কিন্তু গোপনীয়তা ফাঁস হতে পারে।</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">রিংটোন ভাইব্রেশন প্যাটার্ন</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">মিমি-মিমি-মিমি</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">কাস্টম</string>
+    <string name="custom_vibration_pattern_title">কাস্টম প্যাটার্ন</string>
+    <string name="custom_vibration_pattern_summary">একটি কাস্টম ভাইব্রেশন প্যাটার্ন সেট করুন</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">পূর্ণ স্ক্রিন অ্যাপসমূহ</string>
+    <string name="display_cutout_force_fullscreen_summary">অ্যাপ্লিকেশনগুলিকে নচ উপেক্ষা করতে বাধ্য করুন</string>
+    <string name="search">খুজুন</string>
+    <string name="search_apps">অ্যাপ খুঁজুন</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">অ্যাপ ভলিউম</string>
+    <string name="app_volume_title">প্রতি-অ্যাপ ভলিউম নিয়ন্ত্রণ</string>
+    <string name="app_volume_summary">প্রতিটি অ্যাপের জন্য বিভিন্ন ভলিউম লেভেল সেট করার অনুমতি দিন</string>
+    <!-- Game Space -->
+    <string name="game_space_title">গেমের জায়গা</string>
+    <string name="game_space_summary">আপনার গেমিং অভিজ্ঞতা উন্নত করুন</string>
+    <!-- reTicker -->
+    <string name="reticker_title">রি-টিকার</string>
+    <string name="reticker_summary">চিকন ও কম আক্রমনাত্মক নতুন রূপের রি টিকার দ্বারা হেডস আপ নোটিফিকেশন প্রতিস্থাপন করুন</string>
+    <string name="reticker_colored_title">অ্যাপ এর রঙের ব্যাকগ্রাউন্ড ব্যাবহার করুন</string>
+    <string name="reticker_colored_summary">রি টিকারের ব্যাকগ্রাউন্ড রঙ অ্যাপ এর নোটিফিকেশনের প্রধান রঙ দ্বারা প্রতিস্থাপন করুন</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
+    <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
+    <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
+    <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
+    <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
+    <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
+    <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
+    <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
+    <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
+    <string name="volume_steps_reset">পুনরায় সেট করুন</string>
+</resources>

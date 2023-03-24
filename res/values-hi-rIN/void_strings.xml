@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">वॉयडयूआई रिलीज़ वर्शन</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">उपकरण अभिभावक</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">नेविगेशन बार</string>
+    <string name="immersive_navigation_title">इमर्सिव नेविगेशन</string>
+    <string name="immersive_navigation_summary">जेस्चर पिल और नेविगेशन बार पैडिंग छुपाएं।</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">गूगल प्ले</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">क्लिपबोर्ड पर नकल</string>
+    <string name="longpress_to_clipboard">कॉपी करने के लिए देर तक दबाएं</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">वाई-फाई प्रकार आइकन दिखाएं</string>
+    <string name="show_wifi_standard_icon_summary">वाई-फाई सिग्नल इंडिकेटर में वाई-फाई प्रकार दिखाएं</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">सुरक्षित विंडो फ़्लैग को अनदेखा करें</string>
+    <string name="ignore_window_secure_summary">सभी ऐप्स के लिए स्क्रीनशॉट और स्क्रीनरिकॉर्ड सीमाएं हटाएं। यह कुछ मामलों में सुविधाजनक हो सकता है लेकिन इससे गोपनीयता भंग हो सकती है।</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">रिंगटोन कंपन पैटर्न</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-दा</string>
+    <string name="pattern_mm_mm_mm">मिमी-मिमी-मिमी</string>
+    <string name="pattern_da_da_dzzz">दा-दा-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">रिवाज़</string>
+    <string name="custom_vibration_pattern_title">कस्टम पैटर्न</string>
+    <string name="custom_vibration_pattern_summary">एक कस्टम कंपन पैटर्न सेट करें</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रीन एप्लिकेशन</string>
+    <string name="display_cutout_force_fullscreen_summary">ऐप्स को नॉच स्पेस को नज़रअंदाज़ करने के लिए मजबूर करें</string>
+    <string name="search">खोजें</string>
+    <string name="search_apps">ऐप्स खोजें</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">ऐप वॉल्यूम</string>
+    <string name="app_volume_title">प्रति-ऐप वॉल्यूम नियंत्रण</string>
+    <string name="app_volume_summary">प्रत्येक ऐप के लिए अलग-अलग वॉल्यूम स्तर सेट करने की अनुमति दें</string>
+    <!-- Game Space -->
+    <string name="game_space_title">गेम स्पेस</string>
+    <string name="game_space_summary">अपने गेमिंग अनुभव को बेहतर करें</string>
+    <!-- reTicker -->
+    <string name="reticker_title">रीटिकर</string>
+    <string name="reticker_summary">हेड्स-अप नोटिफिकेशन को पुन: डिज़ाइन किए गए पतले और कम वर्शन वाले टिकर बदलें</string>
+    <string name="reticker_colored_title">ऐप रंगीत बैकग्राउंड का प्रयोग करें</string>
+    <string name="reticker_colored_summary">नोटिफिकेशन ऐप के मुख्य रंग का उपयोग करके रीटिकर बैकग्राउंड रंग बदलें</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
+    <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
+    <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
+    <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
+    <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
+    <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
+    <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
+    <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
+    <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
+    <string name="volume_steps_reset">रीसेट करें</string>
+</resources>
