@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Livelli volume</string>
     <string name="volume_steps_summary">Personalizza i livelli del volume</string>
-    <string name="volume_steps_alarm_title">Livelli volume: Sveglia</string>
-    <string name="volume_steps_dtmf_title">Livelli volume: DTMF</string>
-    <string name="volume_steps_music_title">Livelli volume: Media</string>
-    <string name="volume_steps_notification_title">Livelli volume: Notifica</string>
-    <string name="volume_steps_ring_title">Livelli volume: Suoneria</string>
-    <string name="volume_steps_system_title">Livelli volume: Sistema</string>
-    <string name="volume_steps_voice_call_title">Livelli volume: Chiamata</string>
+    <string name="volume_steps_alarm_title">Allarme</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Notifica</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Sistema</string>
+    <string name="volume_steps_voice_call_title">Chiamata vocale</string>
     <string name="volume_steps_reset">Reset</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Nero assoluto</string>
+    <string name="black_bg_summary">Sfondo nero puro per tema scuro</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Impostazioni del tema</string>
+    <string name="monet_settings_sammary">Alcune impostazioni extra per personalizzare il motore di monet</string>
+    <string name="theme_style_title">Stile del tema</string>
+    <string name="theme_style_tonal_spot">Punto tonale (predefinito)</string>
+    <string name="theme_style_vibrant">Vibrante</string>
+    <string name="theme_style_expressive">Espressivo</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Arcobaleno</string>
+    <string name="theme_style_fruit_salad">Macedonia</string>
+    <string name="theme_style_muted">Disattivato</string>
+    <string name="theme_style_content">Contenuto</string>
+    <string name="color_source_title">Fonte di colore</string>
+    <string name="color_source_both">Entrambi (predefinito)</string>
+    <string name="color_source_home">Carta da parati domestica</string>
+    <string name="color_source_lock">Blocca lo sfondo</string>
+    <string name="color_source_preset">Preimpostato</string>
+    <string name="accent_color_title">Colore accento</string>
+    <string name="accent_color_summary">Ignora il colore principale predefinito</string>
+    <string name="accent_background_title">Sfondo di accento</string>
+    <string name="accent_background_summary">Scegli un colore di accento diverso per lo sfondo</string>
+    <string name="bg_color_title">Colore di sfondo</string>
+    <string name="bg_color_summary">Sostituisci il colore dell\'accento di sfondo predefinito</string>
+    <string name="luminance_factor_title">Luminanza</string>
+    <string name="luminance_factor_summary">Valori più alti producono colori più brillanti</string>
+    <string name="chroma_factor_title">Croma</string>
+    <string name="chroma_factor_summary">Valori più alti producono colori più forti</string>
+    <string name="tint_background_title">Sfondo tinta</string>
+    <string name="tint_background_summary">Fai in modo che la selezione di Luminanza e Crominanza influisca anche sui colori di sfondo</string>
 </resources>

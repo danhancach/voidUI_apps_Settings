@@ -10,8 +10,8 @@
     <string name="VoidUI_maintainer">مشرف الجهاز</string>
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">شريط التنقل</string>
-    <string name="immersive_navigation_title">الملاحة الغامرة</string>
-    <string name="immersive_navigation_summary">إخفاء حزمة الإيماءات وحواجز شريط التنقل.</string>
+    <string name="immersive_navigation_title">إخفاء عناصر التنقل</string>
+    <string name="immersive_navigation_summary">إخفاء حبة الإيماءات وحواجز شريط التنقل.</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">متجر جوجل بلاي</string>
     <!-- General -->
@@ -25,11 +25,11 @@
     <string name="ignore_window_secure_summary">إزالة لقطة الشاشة وحدود تسجيل الشاشة لجميع التطبيقات. يمكن أن يكون هذا مناسبًا في بعض الحالات ولكن قد يؤدي إلى تسرب الخصوصية.</string>
     <!-- Vibration patterns -->
     <string name="vibration_pattern_title">نمط اهتزاز نغمة الرنين</string>
-    <string name="pattern_dzzz_dzzz">دزز-دز</string>
-    <string name="pattern_dzzz_da">دزز-دا</string>
-    <string name="pattern_mm_mm_mm">ممم- ملم</string>
-    <string name="pattern_da_da_dzzz">Da-da-dzzz</string>
-    <string name="pattern_da_dzzz_da">دا-دزز-دا</string>
+    <string name="pattern_dzzz_dzzz">دززز-دززز</string>
+    <string name="pattern_dzzz_da">دززز-دا</string>
+    <string name="pattern_mm_mm_mm">مم-مم-مم</string>
+    <string name="pattern_da_da_dzzz">دا-دا-دززز</string>
+    <string name="pattern_da_dzzz_da">دا-دززز-دا</string>
     <string name="pattern_custom">مخصص</string>
     <string name="custom_vibration_pattern_title">نمط مخصص</string>
     <string name="custom_vibration_pattern_summary">تعيين نمط اهتزاز مخصص</string>
@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">درجات الصوت</string>
     <string name="volume_steps_summary">تعديل درجات الصوت</string>
-    <string name="volume_steps_alarm_title">درجات الصوت: المنبه</string>
-    <string name="volume_steps_dtmf_title">درجات الصوت: DTMF</string>
-    <string name="volume_steps_music_title">درجات الصوت: الوسائط</string>
-    <string name="volume_steps_notification_title">درجات الصوت: الإشعارات</string>
-    <string name="volume_steps_ring_title">درجات الصوت: الرنين</string>
-    <string name="volume_steps_system_title">درجات الصوت: النظام</string>
-    <string name="volume_steps_voice_call_title">درجات الصوت: المكالمات</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">الوسائط</string>
+    <string name="volume_steps_notification_title">إشعار</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">النظام</string>
+    <string name="volume_steps_voice_call_title">مكالمة صوتية</string>
     <string name="volume_steps_reset">إعادة تعيين</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">اسود نقي</string>
+    <string name="black_bg_summary">خلفية سوداء نقية للسمة المظلمة</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">إعدادات السمات</string>
+    <string name="monet_settings_sammary">بعض الإعدادات الإضافية لتخصيص محرك الألوان</string>
+    <string name="theme_style_title">نوع السمة</string>
+    <string name="theme_style_tonal_spot">بقعة لونية (افتراضي)</string>
+    <string name="theme_style_vibrant">نابض بالحياة</string>
+    <string name="theme_style_expressive">معبر</string>
+    <string name="theme_style_spritz">رش</string>
+    <string name="theme_style_rainbow">قوس المطر</string>
+    <string name="theme_style_fruit_salad">سلطة فواكه</string>
+    <string name="theme_style_muted">مكتوم</string>
+    <string name="theme_style_content">محتوى</string>
+    <string name="color_source_title">مصدر اللون</string>
+    <string name="color_source_both">كلاهما (افتراضي)</string>
+    <string name="color_source_home">خلفية الشاشة الرئيسية</string>
+    <string name="color_source_lock">خلفية شاشة القفل</string>
+    <string name="color_source_preset">المعد مسبقا</string>
+    <string name="accent_color_title">لون التفاصيل</string>
+    <string name="accent_color_summary">تجاوز لون التفاصيل الافتراضي</string>
+    <string name="accent_background_title">تمييز الخلفية</string>
+    <string name="accent_background_summary">اختر لون تفاصيل مختلف للخلفية</string>
+    <string name="bg_color_title">لون الخلفية</string>
+    <string name="bg_color_summary">تجاوز لون التفاصيل الخلفية الافتراضي</string>
+    <string name="luminance_factor_title">الانارة</string>
+    <string name="luminance_factor_summary">القيم الأعلى تنتج ألوانًا أكثر إشراقًا</string>
+    <string name="chroma_factor_title">كروما</string>
+    <string name="chroma_factor_summary">القيم الأعلى تنتج ألوانًا أقوى</string>
+    <string name="tint_background_title">لون الخلفية</string>
+    <string name="tint_background_summary">اجعل تحديد Luminance و Chroma يؤثر على ألوان الخلفية أيضًا</string>
 </resources>

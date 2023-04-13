@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Lautstärkestufen</string>
     <string name="volume_steps_summary">Lautstärkestufen anpassen</string>
-    <string name="volume_steps_alarm_title">Lautstärkestufen: Wecker</string>
-    <string name="volume_steps_dtmf_title">Lautstärkestufen: DTMF</string>
-    <string name="volume_steps_music_title">Lautstärkestufen: Medien</string>
-    <string name="volume_steps_notification_title">Lautstärkestufen: Benachrichtigungen</string>
-    <string name="volume_steps_ring_title">Lautstärkestufen: Klingelton</string>
-    <string name="volume_steps_system_title">Lautstärkestufen: System</string>
-    <string name="volume_steps_voice_call_title">Lautstärkestufen: Sprachanruf</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Medien</string>
+    <string name="volume_steps_notification_title">Benachrichtigung</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">System</string>
+    <string name="volume_steps_voice_call_title">Sprachanruf</string>
     <string name="volume_steps_reset">Zurücksetzen</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pures Schwarz</string>
+    <string name="black_bg_summary">Reiner schwarzer Hintergrund für dunkles Thema</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Themeneinstellungen</string>
+    <string name="monet_settings_sammary">Ein paar zusätzliche Einstellungen zum Anpassen der Monet-Engine</string>
+    <string name="theme_style_title">Themenstil</string>
+    <string name="theme_style_tonal_spot">Tonpunkt (Standard)</string>
+    <string name="theme_style_vibrant">Beschwingt</string>
+    <string name="theme_style_expressive">Ausdrucksstark</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Regenbogen</string>
+    <string name="theme_style_fruit_salad">Fruchtsalat</string>
+    <string name="theme_style_muted">Stummgeschaltet</string>
+    <string name="theme_style_content">Inhalt</string>
+    <string name="color_source_title">Farbquelle</string>
+    <string name="color_source_both">Beide (Standard)</string>
+    <string name="color_source_home">Startseite Tapete</string>
+    <string name="color_source_lock">Hintergrund unzugänglich machen</string>
+    <string name="color_source_preset">Voreinstellung</string>
+    <string name="accent_color_title">Akzentfarbe</string>
+    <string name="accent_color_summary">Überschreiben Sie die standardmäßige Akzentfarbe</string>
+    <string name="accent_background_title">Akzent-Hintergrund</string>
+    <string name="accent_background_summary">Wählen Sie eine andere Akzentfarbe für den Hintergrund</string>
+    <string name="bg_color_title">Hintergrundfarbe</string>
+    <string name="bg_color_summary">Überschreiben Sie die standardmäßige Hintergrundakzentfarbe</string>
+    <string name="luminance_factor_title">Leuchtdichte</string>
+    <string name="luminance_factor_summary">Höhere Werte erzeugen hellere Farben</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Höhere Werte erzeugen kräftigere Farben</string>
+    <string name="tint_background_title">Hintergrund färben</string>
+    <string name="tint_background_summary">Lassen Sie die Luminanz- und Chroma-Auswahl auch die Hintergrundfarben beeinflussen</string>
 </resources>

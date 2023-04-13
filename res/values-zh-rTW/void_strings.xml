@@ -54,12 +54,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">音量級別</string>
     <string name="volume_steps_summary">自定義音量階數</string>
-    <string name="volume_steps_alarm_title">音量級別：鬧鐘</string>
-    <string name="volume_steps_dtmf_title">音量級別：雙音多頻</string>
-    <string name="volume_steps_music_title">音量級別：媒體</string>
-    <string name="volume_steps_notification_title">音量級別：通知</string>
-    <string name="volume_steps_ring_title">音量級別: 鈴聲</string>
-    <string name="volume_steps_system_title">音量級別：系統</string>
-    <string name="volume_steps_voice_call_title">音量級別：語音通話</string>
+    <string name="volume_steps_alarm_title">警報</string>
+    <string name="volume_steps_dtmf_title">雙音多頻</string>
+    <string name="volume_steps_music_title">媒體</string>
+    <string name="volume_steps_notification_title">通知</string>
+    <string name="volume_steps_ring_title">鈴聲</string>
+    <string name="volume_steps_system_title">系統</string>
+    <string name="volume_steps_voice_call_title">語音通話</string>
     <string name="volume_steps_reset">重置</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">純黑色</string>
+    <string name="black_bg_summary">深色主題的純黑色背景</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">主題設置</string>
+    <string name="monet_settings_sammary">一些額外的設置來自定義莫奈引擎</string>
+    <string name="theme_style_title">主題風格</string>
+    <string name="theme_style_tonal_spot">色調點（默認）</string>
+    <string name="theme_style_vibrant">充滿活力</string>
+    <string name="theme_style_expressive">表現力</string>
+    <string name="theme_style_spritz">噴</string>
+    <string name="theme_style_rainbow">彩虹</string>
+    <string name="theme_style_fruit_salad">水果沙拉</string>
+    <string name="theme_style_muted">靜音</string>
+    <string name="theme_style_content">內容</string>
+    <string name="color_source_title">色源</string>
+    <string name="color_source_both">兩者（默認）</string>
+    <string name="color_source_home">主頁壁紙</string>
+    <string name="color_source_lock">鎖壁紙</string>
+    <string name="color_source_preset">預設</string>
+    <string name="accent_color_title">強調色</string>
+    <string name="accent_color_summary">覆蓋默認強調色</string>
+    <string name="accent_background_title">強調背景</string>
+    <string name="accent_background_summary">為背景選擇不同的強調色</string>
+    <string name="bg_color_title">背景顏色</string>
+    <string name="bg_color_summary">覆蓋默認背景強調色</string>
+    <string name="luminance_factor_title">亮度</string>
+    <string name="luminance_factor_summary">較高的值會產生更亮的顏色</string>
+    <string name="chroma_factor_title">色度</string>
+    <string name="chroma_factor_summary">更高的值產生更強烈的顏色</string>
+    <string name="tint_background_title">色調背景</string>
+    <string name="tint_background_summary">使亮度和色度選擇也會影響背景顏色</string>
 </resources>

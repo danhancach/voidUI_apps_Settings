@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Volumeniveaus</string>
     <string name="volume_steps_summary">Volumeniveaus aanpassen</string>
-    <string name="volume_steps_alarm_title">Volumeniveaus: Alarm</string>
-    <string name="volume_steps_dtmf_title">Volumeniveaus: DTMF</string>
-    <string name="volume_steps_music_title">Volumeniveaus: Media</string>
-    <string name="volume_steps_notification_title">Volumeniveaus: Meldingen</string>
-    <string name="volume_steps_ring_title">Volumeniveaus: Beltoon</string>
-    <string name="volume_steps_system_title">Volumeniveaus: Systeem</string>
-    <string name="volume_steps_voice_call_title">Volumeniveaus: Spraakoproep</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Kennisgeving</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Systeem</string>
+    <string name="volume_steps_voice_call_title">Spraakoproep</string>
     <string name="volume_steps_reset">Resetten</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Puur zwart</string>
+    <string name="black_bg_summary">Puur zwarte achtergrond voor donker thema</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Thema-instellingen</string>
+    <string name="monet_settings_sammary">Een paar extra instellingen om de monet-engine aan te passen</string>
+    <string name="theme_style_title">Thema stijl</string>
+    <string name="theme_style_tonal_spot">Toonvlek (standaard)</string>
+    <string name="theme_style_vibrant">Levendig</string>
+    <string name="theme_style_expressive">Expressief</string>
+    <string name="theme_style_spritz">Sproeien</string>
+    <string name="theme_style_rainbow">Regenboog</string>
+    <string name="theme_style_fruit_salad">Fruit salade</string>
+    <string name="theme_style_muted">Gedempt</string>
+    <string name="theme_style_content">Inhoud</string>
+    <string name="color_source_title">Kleur bron</string>
+    <string name="color_source_both">Beide (standaard)</string>
+    <string name="color_source_home">Thuis behang</string>
+    <string name="color_source_lock">Slot behang</string>
+    <string name="color_source_preset">Vooraf ingesteld</string>
+    <string name="accent_color_title">Accent kleur</string>
+    <string name="accent_color_summary">Negeer de standaard accentkleur</string>
+    <string name="accent_background_title">Accentachtergrond</string>
+    <string name="accent_background_summary">Kies een verschillende accentkleur voor achtergrond</string>
+    <string name="bg_color_title">Achtergrond kleur</string>
+    <string name="bg_color_summary">Negeer de standaard achtergrondaccentkleur</string>
+    <string name="luminance_factor_title">Luminantie</string>
+    <string name="luminance_factor_summary">Hogere waarden produceren helderdere kleuren</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Hogere waarden produceren sterkere kleuren</string>
+    <string name="tint_background_title">Tint Achtergrond</string>
+    <string name="tint_background_summary">Laat Luminantie en Chroma-selectie ook van invloed zijn op achtergrondkleuren</string>
 </resources>

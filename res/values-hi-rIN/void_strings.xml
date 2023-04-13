@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
     <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
-    <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
-    <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
-    <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
-    <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
-    <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
-    <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
-    <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
+    <string name="volume_steps_alarm_title">खतरे की घंटी</string>
+    <string name="volume_steps_dtmf_title">डीटीएमएफ</string>
+    <string name="volume_steps_music_title">मिडिया</string>
+    <string name="volume_steps_notification_title">अधिसूचना</string>
+    <string name="volume_steps_ring_title">घंटी</string>
+    <string name="volume_steps_system_title">प्रणाली</string>
+    <string name="volume_steps_voice_call_title">आवाज कॉल</string>
     <string name="volume_steps_reset">रीसेट करें</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">शुद्ध काल</string>
+    <string name="black_bg_summary">गहरी थीम के लिए शुद्ध काली पृष्ठभूमि</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">थीमिंग सेटिंग्स</string>
+    <string name="monet_settings_sammary">मोनेट इंजन को अनुकूलित करने के लिए कुछ अतिरिक्त सेटिंग्स</string>
+    <string name="theme_style_title">थीम शैली</string>
+    <string name="theme_style_tonal_spot">टोनल स्पॉट (डिफ़ॉल्ट)</string>
+    <string name="theme_style_vibrant">जीवंत</string>
+    <string name="theme_style_expressive">अर्थपूर्ण</string>
+    <string name="theme_style_spritz">स्प्रिट</string>
+    <string name="theme_style_rainbow">इंद्रधनुष</string>
+    <string name="theme_style_fruit_salad">फलों का सलाद</string>
+    <string name="theme_style_muted">म्यूट किए गए</string>
+    <string name="theme_style_content">संतुष्ट</string>
+    <string name="color_source_title">रंग स्रोत</string>
+    <string name="color_source_both">दोनों (डिफ़ॉल्ट)</string>
+    <string name="color_source_home">होम वॉलपेपर</string>
+    <string name="color_source_lock">वॉलपेपर लॉक करें</string>
+    <string name="color_source_preset">प्रीसेट</string>
+    <string name="accent_color_title">स्वरोंका रंग</string>
+    <string name="accent_color_summary">डिफ़ॉल्ट एक्सेंट रंग को ओवरराइड करें</string>
+    <string name="accent_background_title">एक्सेंट पृष्ठभूमि</string>
+    <string name="accent_background_summary">पृष्ठभूमि के लिए एक अलग उच्चारण रंग चुनें</string>
+    <string name="bg_color_title">पृष्ठभूमि का रंग</string>
+    <string name="bg_color_summary">डिफ़ॉल्ट पृष्ठभूमि एक्सेंट रंग को ओवरराइड करें</string>
+    <string name="luminance_factor_title">luminance</string>
+    <string name="luminance_factor_summary">उच्च मान उज्जवल रंग उत्पन्न करते हैं</string>
+    <string name="chroma_factor_title">क्रोमा</string>
+    <string name="chroma_factor_summary">उच्च मूल्य मजबूत रंग उत्पन्न करते हैं</string>
+    <string name="tint_background_title">टिंट पृष्ठभूमि</string>
+    <string name="tint_background_summary">Luminance और Chroma चयन को पृष्ठभूमि के रंगों को भी प्रभावित करें</string>
 </resources>

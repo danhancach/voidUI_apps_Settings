@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Kroky hlasitosti</string>
     <string name="volume_steps_summary">Přizpůsobte kroky hlasitosti</string>
-    <string name="volume_steps_alarm_title">Kroky hlasitosti: Alarm</string>
-    <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
-    <string name="volume_steps_music_title">Kroky hlasitosti: Média</string>
-    <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
-    <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
-    <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
-    <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasový hovor</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Média</string>
+    <string name="volume_steps_notification_title">Oznámení</string>
+    <string name="volume_steps_ring_title">Zvonění</string>
+    <string name="volume_steps_system_title">Systém</string>
+    <string name="volume_steps_voice_call_title">Hlasové volání</string>
     <string name="volume_steps_reset">Resetovat</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Čistě černá</string>
+    <string name="black_bg_summary">Čistě černé pozadí pro tmavé téma</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Nastavení motivu</string>
+    <string name="monet_settings_sammary">Několik dalších nastavení pro přizpůsobení monet engine</string>
+    <string name="theme_style_title">Styl motivu</string>
+    <string name="theme_style_tonal_spot">Tonální bod (výchozí)</string>
+    <string name="theme_style_vibrant">Vibrující</string>
+    <string name="theme_style_expressive">Expresivní</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Duha</string>
+    <string name="theme_style_fruit_salad">Ovocný salát</string>
+    <string name="theme_style_muted">Ztlumeno</string>
+    <string name="theme_style_content">Obsah</string>
+    <string name="color_source_title">Zdroj barvy</string>
+    <string name="color_source_both">Oba (výchozí)</string>
+    <string name="color_source_home">Domácí tapety</string>
+    <string name="color_source_lock">Zamknout tapetu</string>
+    <string name="color_source_preset">Přednastavení</string>
+    <string name="accent_color_title">Barva zvýraznění</string>
+    <string name="accent_color_summary">Přepsat výchozí barvu zvýraznění</string>
+    <string name="accent_background_title">Akcent pozadí</string>
+    <string name="accent_background_summary">Vyberte jinou akcentní barvu pozadí</string>
+    <string name="bg_color_title">Barva pozadí</string>
+    <string name="bg_color_summary">Přepsat výchozí barvu zvýraznění pozadí</string>
+    <string name="luminance_factor_title">Jas</string>
+    <string name="luminance_factor_summary">Vyšší hodnoty vytvářejí jasnější barvy</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Vyšší hodnoty vytvářejí silnější barvy</string>
+    <string name="tint_background_title">Odstín pozadí</string>
+    <string name="tint_background_summary">Výběr Luminance a Chroma ovlivní také barvy pozadí</string>
 </resources>

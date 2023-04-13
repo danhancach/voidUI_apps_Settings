@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Langkah volume</string>
     <string name="volume_steps_summary">Sesuaikan langkah volume</string>
-    <string name="volume_steps_alarm_title">Langkah volume: Alarm</string>
-    <string name="volume_steps_dtmf_title">Langkah volume: DTMF</string>
-    <string name="volume_steps_music_title">Langkah volume: Media</string>
-    <string name="volume_steps_notification_title">Langkah volume: Pemberitahuan</string>
-    <string name="volume_steps_ring_title">Langkah volume: Dering</string>
-    <string name="volume_steps_system_title">Langkah volume: Sistem</string>
-    <string name="volume_steps_voice_call_title">Langkah volume: Panggilan Suara</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Pemberitahuan</string>
+    <string name="volume_steps_ring_title">Dering</string>
+    <string name="volume_steps_system_title">Sistem</string>
+    <string name="volume_steps_voice_call_title">Panggilan Suara</string>
     <string name="volume_steps_reset">Atur ulang</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Hitam murni</string>
+    <string name="black_bg_summary">Latar belakang hitam murni untuk tema gelap</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Pengaturan tema</string>
+    <string name="monet_settings_sammary">Beberapa pengaturan tambahan untuk menyesuaikan mesin monet</string>
+    <string name="theme_style_title">Gaya tema</string>
+    <string name="theme_style_tonal_spot">Bintik Nada (Bawaan)</string>
+    <string name="theme_style_vibrant">Bersemangat</string>
+    <string name="theme_style_expressive">Ekspresif</string>
+    <string name="theme_style_spritz">Semprotkan</string>
+    <string name="theme_style_rainbow">Pelangi</string>
+    <string name="theme_style_fruit_salad">Salad buah</string>
+    <string name="theme_style_muted">Meredam</string>
+    <string name="theme_style_content">Isi</string>
+    <string name="color_source_title">Sumber warna</string>
+    <string name="color_source_both">Keduanya (Bawaan)</string>
+    <string name="color_source_home">Wallpaper rumah</string>
+    <string name="color_source_lock">Kunci kertas dinding</string>
+    <string name="color_source_preset">Prasetel</string>
+    <string name="accent_color_title">Aksen warna</string>
+    <string name="accent_color_summary">Ganti warna aksen default</string>
+    <string name="accent_background_title">Latar belakang aksen</string>
+    <string name="accent_background_summary">Pilih warna aksen yang berbeda untuk latar belakang</string>
+    <string name="bg_color_title">Warna latar belakang</string>
+    <string name="bg_color_summary">Ganti warna aksen latar belakang default</string>
+    <string name="luminance_factor_title">Pencahayaan</string>
+    <string name="luminance_factor_summary">Nilai yang lebih tinggi menghasilkan warna yang lebih cerah</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Nilai yang lebih tinggi menghasilkan warna yang lebih kuat</string>
+    <string name="tint_background_title">Latar Belakang Warna</string>
+    <string name="tint_background_summary">Jadikan pemilihan Luminance dan Chroma juga memengaruhi warna latar belakang</string>
 </resources>

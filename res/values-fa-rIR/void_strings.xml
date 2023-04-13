@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">مراحل حجم</string>
     <string name="volume_steps_summary">سفارشی کردن مراحل حجم</string>
-    <string name="volume_steps_alarm_title">مراحل ولوم: زنگ هشدار</string>
-    <string name="volume_steps_dtmf_title">مراحل حجم: DTMF</string>
-    <string name="volume_steps_music_title">مراحل حجم: رسانه</string>
-    <string name="volume_steps_notification_title">مراحل حجم: اعلان</string>
-    <string name="volume_steps_ring_title">مراحل حجم: زنگ</string>
-    <string name="volume_steps_system_title">مراحل حجم: سیستم</string>
-    <string name="volume_steps_voice_call_title">مراحل صدا: تماس صوتی</string>
+    <string name="volume_steps_alarm_title">زنگ خطر. هشدار</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">رسانه ها</string>
+    <string name="volume_steps_notification_title">اطلاع</string>
+    <string name="volume_steps_ring_title">زنگ</string>
+    <string name="volume_steps_system_title">سیستم</string>
+    <string name="volume_steps_voice_call_title">تماس صوتی</string>
     <string name="volume_steps_reset">بازنشانی کنید</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">مشکی خالص</string>
+    <string name="black_bg_summary">پس زمینه سیاه خالص برای تم تیره</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">تنظیمات تم</string>
+    <string name="monet_settings_sammary">چند تنظیمات اضافی برای سفارشی کردن موتور پول</string>
+    <string name="theme_style_title">سبک تم</string>
+    <string name="theme_style_tonal_spot">نقطه تونال (پیش‌فرض)</string>
+    <string name="theme_style_vibrant">پر جنب و جوش</string>
+    <string name="theme_style_expressive">رسا</string>
+    <string name="theme_style_spritz">اسپریتز</string>
+    <string name="theme_style_rainbow">رنگين كمان</string>
+    <string name="theme_style_fruit_salad">سالاد میوه</string>
+    <string name="theme_style_muted">بی صدا شد</string>
+    <string name="theme_style_content">محتوا</string>
+    <string name="color_source_title">منبع رنگ</string>
+    <string name="color_source_both">هر دو (پیش‌فرض)</string>
+    <string name="color_source_home">کاغذ دیواری خانه</string>
+    <string name="color_source_lock">قفل کاغذ دیواری</string>
+    <string name="color_source_preset">از پیش تعیین شده</string>
+    <string name="accent_color_title">رنگ تاکیدی</string>
+    <string name="accent_color_summary">رنگ تاکیدی پیش‌فرض را لغو کنید</string>
+    <string name="accent_background_title">پس زمینه لهجه</string>
+    <string name="accent_background_summary">یک رنگ تاکیدی متفاوت برای پس زمینه انتخاب کنید</string>
+    <string name="bg_color_title">رنگ پس زمینه</string>
+    <string name="bg_color_summary">رنگ لهجه پیش‌فرض پس‌زمینه را لغو کنید</string>
+    <string name="luminance_factor_title">درخشندگی</string>
+    <string name="luminance_factor_summary">مقادیر بالاتر رنگ های روشن تری تولید می کنند</string>
+    <string name="chroma_factor_title">کروما</string>
+    <string name="chroma_factor_summary">مقادیر بالاتر رنگ های قوی تری تولید می کنند</string>
+    <string name="tint_background_title">رنگ پس زمینه</string>
+    <string name="tint_background_summary">انتخاب Luminance و Chroma روی رنگ‌های پس‌زمینه نیز تأثیر بگذارد</string>
 </resources>

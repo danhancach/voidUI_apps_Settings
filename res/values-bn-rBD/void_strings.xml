@@ -53,12 +53,44 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
     <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
-    <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
-    <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
-    <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
-    <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
-    <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
-    <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
-    <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
+    <string name="volume_steps_alarm_title">এলার্ম</string>
+    <string name="volume_steps_dtmf_title">ডিটিএমএফ</string>
+    <string name="volume_steps_music_title">মিডিয়া</string>
+    <string name="volume_steps_notification_title">বিজ্ঞপ্তি</string>
+    <string name="volume_steps_ring_title">রিংগার</string>
+    <string name="volume_steps_system_title">সিস্টেম</string>
+    <string name="volume_steps_voice_call_title">ভয়েস কল</string>
     <string name="volume_steps_reset">পুনরায় সেট করুন</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">খাঁটি কালো</string>
+    <string name="black_bg_summary">অন্ধকার থিমের জন্য খাঁটি কালো ব্যাকগ্রাউন্ড</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">থিমিং সেটিংস</string>
+    <string name="monet_settings_sammary">মনিট ইঞ্জিন কাস্টমাইজ করার জন্য কয়েকটি অতিরিক্ত সেটিংস</string>
+    <string name="theme_style_title">থিম শৈলী</string>
+    <string name="theme_style_tonal_spot">টোনাল স্পট (ডিফল্ট)</string>
+    <string name="theme_style_vibrant">প্রাণবন্ত</string>
+    <string name="theme_style_expressive">অভিব্যক্তিপূর্ণ</string>
+    <string name="theme_style_spritz">স্প্রিটজ</string>
+    <string name="theme_style_rainbow">রংধনু</string>
+    <string name="theme_style_fruit_salad">ফলের সালাদ</string>
+    <string name="theme_style_muted">নিঃশব্দ</string>
+    <string name="theme_style_content">বিষয়বস্তু</string>
+    <string name="color_source_title">রঙের উৎস</string>
+    <string name="color_source_both">উভয় (ডিফল্ট)</string>
+    <string name="color_source_home">হোম ওয়ালপেপার</string>
+    <string name="color_source_lock">ওয়ালপেপার লক করুন</string>
+    <string name="color_source_preset">প্রিসেট</string>
+    <string name="accent_color_title">সুরের ধাপের রঙ</string>
+    <string name="accent_color_summary">ডিফল্ট অ্যাকসেন্ট রঙ ওভাররাইড করুন</string>
+    <string name="accent_background_title">অ্যাকসেন্ট ব্যাকগ্রাউন্ড</string>
+    <string name="accent_background_summary">পটভূমির জন্য একটি ভিন্ন উচ্চারণ রঙ চয়ন করুন</string>
+    <string name="bg_color_title">পেছনের রং</string>
+    <string name="bg_color_summary">ডিফল্ট ব্যাকগ্রাউন্ড অ্যাকসেন্ট রঙ ওভাররাইড করুন</string>
+    <string name="luminance_factor_title">আলোকসজ্জা</string>
+    <string name="luminance_factor_summary">উচ্চ মান উজ্জ্বল রং উত্পাদন</string>
+    <string name="chroma_factor_title">ক্রোমা</string>
+    <string name="chroma_factor_summary">উচ্চ মান শক্তিশালী রং উত্পাদন</string>
+    <string name="tint_background_title">টিন্ট ব্যাকগ্রাউন্ড</string>
+    <string name="tint_background_summary">লুমিন্যান্স এবং ক্রোমা নির্বাচন পটভূমির রঙগুলিকেও প্রভাবিত করে</string>
 </resources>
