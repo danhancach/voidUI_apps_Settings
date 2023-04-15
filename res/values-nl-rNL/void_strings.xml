@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Hogere waarden produceren sterkere kleuren</string>
     <string name="tint_background_title">Tint Achtergrond</string>
     <string name="tint_background_summary">Laat Luminantie en Chroma-selectie ook van invloed zijn op achtergrondkleuren</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Altijd op display schema</string>
+    <string name="always_on_display_schedule_sunset">Zonsondergang</string>
+    <string name="always_on_display_schedule_sunrise">zonsopkomst</string>
+    <string name="always_on_display_schedule_mixed_sunset">Gaat aan van zonsondergang tot een tijd</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Gaat aan van een tijd tot zonsopgang</string>
 </resources>

@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">مقادیر بالاتر رنگ های قوی تری تولید می کنند</string>
     <string name="tint_background_title">رنگ پس زمینه</string>
     <string name="tint_background_summary">انتخاب Luminance و Chroma روی رنگ‌های پس‌زمینه نیز تأثیر بگذارد</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">همیشه در برنامه نمایش</string>
+    <string name="always_on_display_schedule_sunset">غروب آفتاب</string>
+    <string name="always_on_display_schedule_sunrise">طلوع خورشید</string>
+    <string name="always_on_display_schedule_mixed_sunset">از غروب آفتاب تا زمانی روشن می شود</string>
+    <string name="always_on_display_schedule_mixed_sunrise">از زمانی تا طلوع خورشید روشن می شود</string>
 </resources>

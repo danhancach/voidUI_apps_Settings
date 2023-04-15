@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Οι υψηλότερες τιμές παράγουν ισχυρότερα χρώματα</string>
     <string name="tint_background_title">Απόχρωση φόντου</string>
     <string name="tint_background_summary">Κάντε την επιλογή Luminance και Chroma να επηρεάσουν επίσης τα χρώματα του φόντου</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Πάντα σε πρόγραμμα προβολής</string>
+    <string name="always_on_display_schedule_sunset">Η δυση του ηλιου</string>
+    <string name="always_on_display_schedule_sunrise">Ανατολή ηλίου</string>
+    <string name="always_on_display_schedule_mixed_sunset">Ανάβει από τη δύση του ηλίου μέχρι κάποια στιγμή</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Ανάβει από μια ώρα μέχρι την ανατολή του ηλίου</string>
 </resources>

@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Valori più alti producono colori più forti</string>
     <string name="tint_background_title">Sfondo tinta</string>
     <string name="tint_background_summary">Fai in modo che la selezione di Luminanza e Crominanza influisca anche sui colori di sfondo</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Sempre in programma di visualizzazione</string>
+    <string name="always_on_display_schedule_sunset">Tramonto</string>
+    <string name="always_on_display_schedule_sunrise">Alba</string>
+    <string name="always_on_display_schedule_mixed_sunset">Si accende dal tramonto fino a un\'ora</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Si accende da un orario fino all\'alba</string>
 </resources>

@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Valores mais altos produzem cores mais fortes</string>
     <string name="tint_background_title">Tonalidade de fundo</string>
     <string name="tint_background_summary">Faça com que a seleção de luminância e croma também afete as cores de fundo</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Sempre na programação de exibição</string>
+    <string name="always_on_display_schedule_sunset">Pôr do sol</string>
+    <string name="always_on_display_schedule_sunrise">Nascer do sol</string>
+    <string name="always_on_display_schedule_mixed_sunset">Acende desde o pôr do sol até um momento</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Liga de um tempo até o nascer do sol</string>
 </resources>

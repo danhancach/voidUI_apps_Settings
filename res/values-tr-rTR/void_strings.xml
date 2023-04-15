@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Daha yüksek değerler daha güçlü renkler üretir</string>
     <string name="tint_background_title">Arka Planı Renklendir</string>
     <string name="tint_background_summary">Parlaklık ve Kroma seçiminin arka plan renklerini de etkilemesini sağlayın</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Her zaman ekran programında</string>
+    <string name="always_on_display_schedule_sunset">Gün batımı</string>
+    <string name="always_on_display_schedule_sunrise">gündoğumu</string>
+    <string name="always_on_display_schedule_mixed_sunset">Gün batımından bir zamana kadar açılır</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Bir zamandan gün doğumuna kadar açılır</string>
 </resources>

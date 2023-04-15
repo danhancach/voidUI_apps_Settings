@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Вищі значення створюють сильніші кольори</string>
     <string name="tint_background_title">Відтінок фону</string>
     <string name="tint_background_summary">Вибір яскравості та кольоровості також впливає на фонові кольори</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Розклад роботи Завжди включеного екрану</string>
+    <string name="always_on_display_schedule_sunset">Захід сонця</string>
+    <string name="always_on_display_schedule_sunrise">Схід сонця</string>
+    <string name="always_on_display_schedule_mixed_sunset">Вмикається від заходу до заданого часу</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Вмикається час від заданого часу до сходу сонця</string>
 </resources>

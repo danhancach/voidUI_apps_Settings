@@ -94,4 +94,10 @@
     <string name="chroma_factor_summary">更高的值產生更強烈的顏色</string>
     <string name="tint_background_title">色調背景</string>
     <string name="tint_background_summary">使亮度和色度選擇也會影響背景顏色</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">始終顯示時間表</string>
+    <string name="always_on_display_schedule_sunset">日落</string>
+    <string name="always_on_display_schedule_sunrise">日出</string>
+    <string name="always_on_display_schedule_mixed_sunset">從日落到某個時間點亮</string>
+    <string name="always_on_display_schedule_mixed_sunrise">從一個時間點亮到日出</string>
 </resources>

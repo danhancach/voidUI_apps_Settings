@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Los valores más altos producen colores más fuertes</string>
     <string name="tint_background_title">Fondo de tinte</string>
     <string name="tint_background_summary">Hacer que la selección de luminancia y croma también afecte a los colores de fondo</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Horario de exhibición siempre</string>
+    <string name="always_on_display_schedule_sunset">Atardecer</string>
+    <string name="always_on_display_schedule_sunrise">Amanecer</string>
+    <string name="always_on_display_schedule_mixed_sunset">Se enciende desde la puesta del sol hasta una hora</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Se enciende desde un momento hasta el amanecer</string>
 </resources>

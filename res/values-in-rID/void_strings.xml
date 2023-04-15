@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Nilai yang lebih tinggi menghasilkan warna yang lebih kuat</string>
     <string name="tint_background_title">Latar Belakang Warna</string>
     <string name="tint_background_summary">Jadikan pemilihan Luminance dan Chroma juga memengaruhi warna latar belakang</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Selalu pada jadwal tampilan</string>
+    <string name="always_on_display_schedule_sunset">Matahari terbenam</string>
+    <string name="always_on_display_schedule_sunrise">Matahari terbit</string>
+    <string name="always_on_display_schedule_mixed_sunset">Menyala dari matahari terbenam hingga waktu tertentu</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Menyala dari waktu hingga matahari terbit</string>
 </resources>

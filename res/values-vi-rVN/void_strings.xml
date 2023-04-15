@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Giá trị cao hơn tạo ra màu sắc mạnh mẽ hơn</string>
     <string name="tint_background_title">Màu nền</string>
     <string name="tint_background_summary">Thực hiện lựa chọn Độ chói và Sắc độ cũng ảnh hưởng đến màu nền</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Luôn luôn trong lịch trình hiển thị</string>
+    <string name="always_on_display_schedule_sunset">Hoàng hôn</string>
+    <string name="always_on_display_schedule_sunrise">bình Minh</string>
+    <string name="always_on_display_schedule_mixed_sunset">Bật từ hoàng hôn cho đến một thời điểm</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Bật từ một lúc cho đến khi mặt trời mọc</string>
 </resources>

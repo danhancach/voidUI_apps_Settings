@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">উচ্চ মান শক্তিশালী রং উত্পাদন</string>
     <string name="tint_background_title">টিন্ট ব্যাকগ্রাউন্ড</string>
     <string name="tint_background_summary">লুমিন্যান্স এবং ক্রোমা নির্বাচন পটভূমির রঙগুলিকেও প্রভাবিত করে</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">সর্বদা প্রদর্শনের সময়সূচীতে</string>
+    <string name="always_on_display_schedule_sunset">সূর্যাস্ত</string>
+    <string name="always_on_display_schedule_sunrise">সূর্যোদয়</string>
+    <string name="always_on_display_schedule_mixed_sunset">সূর্যাস্ত থেকে একটি সময় পর্যন্ত চালু হয়</string>
+    <string name="always_on_display_schedule_mixed_sunrise">একটি সময় থেকে সূর্যোদয় পর্যন্ত চালু হয়</string>
 </resources>

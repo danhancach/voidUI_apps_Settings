@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">القيم الأعلى تنتج ألوانًا أقوى</string>
     <string name="tint_background_title">لون الخلفية</string>
     <string name="tint_background_summary">اجعل تحديد Luminance و Chroma يؤثر على ألوان الخلفية أيضًا</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">دائما على جدول العرض</string>
+    <string name="always_on_display_schedule_sunset">غروب</string>
+    <string name="always_on_display_schedule_sunrise">شروق الشمس</string>
+    <string name="always_on_display_schedule_mixed_sunset">يتحول من غروب الشمس حتى وقت</string>
+    <string name="always_on_display_schedule_mixed_sunrise">يعمل من وقت حتى شروق الشمس</string>
 </resources>

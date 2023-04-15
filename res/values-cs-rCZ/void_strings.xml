@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Vyšší hodnoty vytvářejí silnější barvy</string>
     <string name="tint_background_title">Odstín pozadí</string>
     <string name="tint_background_summary">Výběr Luminance a Chroma ovlivní také barvy pozadí</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Vždy na displeji plánu</string>
+    <string name="always_on_display_schedule_sunset">Západ slunce</string>
+    <string name="always_on_display_schedule_sunrise">svítání</string>
+    <string name="always_on_display_schedule_mixed_sunset">Zapne se od západu slunce do času</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Zapíná se od času do východu slunce</string>
 </resources>

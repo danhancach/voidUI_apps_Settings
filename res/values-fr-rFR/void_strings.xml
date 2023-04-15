@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Des valeurs plus élevées produisent des couleurs plus fortes</string>
     <string name="tint_background_title">Teinte de fond</string>
     <string name="tint_background_summary">Faire en sorte que la sélection de luminance et de chrominance affecte également les couleurs d\'arrière-plan</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Toujours sur le calendrier d\'affichage</string>
+    <string name="always_on_display_schedule_sunset">Coucher de soleil</string>
+    <string name="always_on_display_schedule_sunrise">Lever du soleil</string>
+    <string name="always_on_display_schedule_mixed_sunset">S\'allume du coucher du soleil jusqu\'à une heure</string>
+    <string name="always_on_display_schedule_mixed_sunrise">S\'allume à partir d\'une heure jusqu\'au lever du soleil</string>
 </resources>

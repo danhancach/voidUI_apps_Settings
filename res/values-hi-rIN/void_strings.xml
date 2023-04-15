@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">उच्च मूल्य मजबूत रंग उत्पन्न करते हैं</string>
     <string name="tint_background_title">टिंट पृष्ठभूमि</string>
     <string name="tint_background_summary">Luminance और Chroma चयन को पृष्ठभूमि के रंगों को भी प्रभावित करें</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">हमेशा डिस्प्ले शेड्यूल पर</string>
+    <string name="always_on_display_schedule_sunset">सूर्यास्त</string>
+    <string name="always_on_display_schedule_sunrise">सूर्योदय</string>
+    <string name="always_on_display_schedule_mixed_sunset">सूर्यास्त से एक समय तक चालू रहता है</string>
+    <string name="always_on_display_schedule_mixed_sunrise">एक समय से सूर्योदय तक चालू रहता है</string>
 </resources>

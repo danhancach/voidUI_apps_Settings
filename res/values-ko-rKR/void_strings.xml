@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">값이 높을수록 색상이 강해집니다.</string>
     <string name="tint_background_title">색조 배경</string>
     <string name="tint_background_summary">휘도 및 채도 선택이 배경색에도 영향을 미치도록 합니다.</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">항상 표시 일정</string>
+    <string name="always_on_display_schedule_sunset">일몰</string>
+    <string name="always_on_display_schedule_sunrise">해돋이</string>
+    <string name="always_on_display_schedule_mixed_sunset">일몰부터 일정 시간까지 켜짐</string>
+    <string name="always_on_display_schedule_mixed_sunrise">일출까지의 시간부터 점등</string>
 </resources>

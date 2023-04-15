@@ -93,4 +93,10 @@
     <string name="chroma_factor_summary">Höhere Werte erzeugen kräftigere Farben</string>
     <string name="tint_background_title">Hintergrund färben</string>
     <string name="tint_background_summary">Lassen Sie die Luminanz- und Chroma-Auswahl auch die Hintergrundfarben beeinflussen</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Immer auf Anzeigeplan</string>
+    <string name="always_on_display_schedule_sunset">Sonnenuntergang</string>
+    <string name="always_on_display_schedule_sunrise">Sonnenaufgang</string>
+    <string name="always_on_display_schedule_mixed_sunset">Schaltet sich von Sonnenuntergang bis zu einer bestimmten Zeit ein</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Schaltet sich von einer Zeit bis zum Sonnenaufgang ein</string>
 </resources>
