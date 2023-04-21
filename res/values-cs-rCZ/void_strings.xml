@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Kroky hlasitosti</string>
     <string name="volume_steps_summary">Přizpůsobte kroky hlasitosti</string>
-    <string name="volume_steps_alarm_title">Alarm</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Média</string>
-    <string name="volume_steps_notification_title">Oznámení</string>
-    <string name="volume_steps_ring_title">Zvonění</string>
-    <string name="volume_steps_system_title">Systém</string>
-    <string name="volume_steps_voice_call_title">Hlasové volání</string>
+    <string name="volume_steps_alarm_title">Kroky hlasitosti: Alarm</string>
+    <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
+    <string name="volume_steps_music_title">Kroky hlasitosti: Média</string>
+    <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
+    <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
+    <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
+    <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasový hovor</string>
     <string name="volume_steps_reset">Resetovat</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Čistě černá</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">svítání</string>
     <string name="always_on_display_schedule_mixed_sunset">Zapne se od západu slunce do času</string>
     <string name="always_on_display_schedule_mixed_sunrise">Zapíná se od času do východu slunce</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Vynucení agregace operátorů LTE</string>
 </resources>

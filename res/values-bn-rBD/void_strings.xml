@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
     <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
-    <string name="volume_steps_alarm_title">এলার্ম</string>
-    <string name="volume_steps_dtmf_title">ডিটিএমএফ</string>
-    <string name="volume_steps_music_title">মিডিয়া</string>
-    <string name="volume_steps_notification_title">বিজ্ঞপ্তি</string>
-    <string name="volume_steps_ring_title">রিংগার</string>
-    <string name="volume_steps_system_title">সিস্টেম</string>
-    <string name="volume_steps_voice_call_title">ভয়েস কল</string>
+    <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
+    <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
+    <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
+    <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
+    <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
+    <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
+    <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
     <string name="volume_steps_reset">পুনরায় সেট করুন</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">খাঁটি কালো</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">সূর্যোদয়</string>
     <string name="always_on_display_schedule_mixed_sunset">সূর্যাস্ত থেকে একটি সময় পর্যন্ত চালু হয়</string>
     <string name="always_on_display_schedule_mixed_sunrise">একটি সময় থেকে সূর্যোদয় পর্যন্ত চালু হয়</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">জোর করে LTE CA</string>
+    <string name="force_lte_ca_summary">LTE ক্যারিয়ার সমষ্টিকে কাজ করতে বাধ্য করুন</string>
 </resources>

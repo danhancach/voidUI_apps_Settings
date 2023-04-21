@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Các bước âm lượng</string>
     <string name="volume_steps_summary">Tùy chỉnh các bước âm lượng</string>
-    <string name="volume_steps_alarm_title">Báo thức</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Phương tiện truyền thông</string>
-    <string name="volume_steps_notification_title">Thông báo</string>
-    <string name="volume_steps_ring_title">nhạc chuông</string>
-    <string name="volume_steps_system_title">Hệ thống</string>
-    <string name="volume_steps_voice_call_title">Cuộc gọi thoại</string>
+    <string name="volume_steps_alarm_title">Các bước âm lượng: Báo thức</string>
+    <string name="volume_steps_dtmf_title">Các bước âm lượng: DTMF</string>
+    <string name="volume_steps_music_title">Các bước âm lượng: Media</string>
+    <string name="volume_steps_notification_title">Các bước âm lượng: Thông báo</string>
+    <string name="volume_steps_ring_title">Các bước âm lượng: Chuông báo</string>
+    <string name="volume_steps_system_title">Các bước âm lượng: Hệ thống</string>
+    <string name="volume_steps_voice_call_title">Các bước âm lượng: Cuộc gọi thoại</string>
     <string name="volume_steps_reset">Thiết lập lại</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Màu đen tinh khiết</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">bình Minh</string>
     <string name="always_on_display_schedule_mixed_sunset">Bật từ hoàng hôn cho đến một thời điểm</string>
     <string name="always_on_display_schedule_mixed_sunrise">Bật từ một lúc cho đến khi mặt trời mọc</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Buộc LTE CA</string>
+    <string name="force_lte_ca_summary">Buộc tập hợp sóng mang LTE hoạt động</string>
 </resources>

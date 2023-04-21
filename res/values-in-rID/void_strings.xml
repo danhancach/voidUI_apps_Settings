@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Langkah volume</string>
     <string name="volume_steps_summary">Sesuaikan langkah volume</string>
-    <string name="volume_steps_alarm_title">Alarm</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Media</string>
-    <string name="volume_steps_notification_title">Pemberitahuan</string>
-    <string name="volume_steps_ring_title">Dering</string>
-    <string name="volume_steps_system_title">Sistem</string>
-    <string name="volume_steps_voice_call_title">Panggilan Suara</string>
+    <string name="volume_steps_alarm_title">Langkah volume: Alarm</string>
+    <string name="volume_steps_dtmf_title">Langkah volume: DTMF</string>
+    <string name="volume_steps_music_title">Langkah volume: Media</string>
+    <string name="volume_steps_notification_title">Langkah volume: Pemberitahuan</string>
+    <string name="volume_steps_ring_title">Langkah volume: Dering</string>
+    <string name="volume_steps_system_title">Langkah volume: Sistem</string>
+    <string name="volume_steps_voice_call_title">Langkah volume: Panggilan Suara</string>
     <string name="volume_steps_reset">Atur ulang</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Hitam murni</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">Matahari terbit</string>
     <string name="always_on_display_schedule_mixed_sunset">Menyala dari matahari terbenam hingga waktu tertentu</string>
     <string name="always_on_display_schedule_mixed_sunrise">Menyala dari waktu hingga matahari terbit</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Paksa LTE CA</string>
+    <string name="force_lte_ca_summary">Memaksakan agregasi operator LTE untuk bekerja</string>
 </resources>

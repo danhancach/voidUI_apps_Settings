@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">مراحل حجم</string>
     <string name="volume_steps_summary">سفارشی کردن مراحل حجم</string>
-    <string name="volume_steps_alarm_title">زنگ خطر. هشدار</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">رسانه ها</string>
-    <string name="volume_steps_notification_title">اطلاع</string>
-    <string name="volume_steps_ring_title">زنگ</string>
-    <string name="volume_steps_system_title">سیستم</string>
-    <string name="volume_steps_voice_call_title">تماس صوتی</string>
+    <string name="volume_steps_alarm_title">مراحل ولوم: زنگ هشدار</string>
+    <string name="volume_steps_dtmf_title">مراحل حجم: DTMF</string>
+    <string name="volume_steps_music_title">مراحل حجم: رسانه</string>
+    <string name="volume_steps_notification_title">مراحل حجم: اعلان</string>
+    <string name="volume_steps_ring_title">مراحل حجم: زنگ</string>
+    <string name="volume_steps_system_title">مراحل حجم: سیستم</string>
+    <string name="volume_steps_voice_call_title">مراحل صدا: تماس صوتی</string>
     <string name="volume_steps_reset">بازنشانی کنید</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">مشکی خالص</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">طلوع خورشید</string>
     <string name="always_on_display_schedule_mixed_sunset">از غروب آفتاب تا زمانی روشن می شود</string>
     <string name="always_on_display_schedule_mixed_sunrise">از زمانی تا طلوع خورشید روشن می شود</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">اجباری LTE CA</string>
+    <string name="force_lte_ca_summary">تجمع شرکت مخابراتی LTE را مجبور به کار کنید</string>
 </resources>

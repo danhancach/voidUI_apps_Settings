@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Niveaux du volume</string>
     <string name="volume_steps_summary">Personnaliser les niveaux de volume</string>
-    <string name="volume_steps_alarm_title">Alarme</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Les médias</string>
-    <string name="volume_steps_notification_title">Notification</string>
-    <string name="volume_steps_ring_title">Sonnerie</string>
-    <string name="volume_steps_system_title">Système</string>
-    <string name="volume_steps_voice_call_title">Appel vocal</string>
+    <string name="volume_steps_alarm_title">Niveaux du volume : Alarme</string>
+    <string name="volume_steps_dtmf_title">Niveau du volume : DTMF</string>
+    <string name="volume_steps_music_title">Niveau du volume : Médias</string>
+    <string name="volume_steps_notification_title">Niveaux du volume : Notification</string>
+    <string name="volume_steps_ring_title">Niveaux du volume : Sonnerie</string>
+    <string name="volume_steps_system_title">Niveaux du volume : Système</string>
+    <string name="volume_steps_voice_call_title">Niveaux du volume : Appel Vocal</string>
     <string name="volume_steps_reset">Réinitialiser</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Noir pur</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">Lever du soleil</string>
     <string name="always_on_display_schedule_mixed_sunset">S\'allume du coucher du soleil jusqu\'à une heure</string>
     <string name="always_on_display_schedule_mixed_sunrise">S\'allume à partir d\'une heure jusqu\'au lever du soleil</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Forcer l\'agrégation de porteuses LTE à fonctionner</string>
 </resources>

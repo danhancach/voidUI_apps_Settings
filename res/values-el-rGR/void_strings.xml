@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Βήματα έντασης</string>
     <string name="volume_steps_summary">Προσαρμογή βημάτων έντασης</string>
-    <string name="volume_steps_alarm_title">Συναγερμός</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Μέσα ενημέρωσης</string>
-    <string name="volume_steps_notification_title">Ειδοποίηση</string>
-    <string name="volume_steps_ring_title">Δακτύλιος</string>
-    <string name="volume_steps_system_title">Σύστημα</string>
-    <string name="volume_steps_voice_call_title">Φωνητική κλήση</string>
+    <string name="volume_steps_alarm_title">Βήματα Έντασης: Ξυπνητήρι</string>
+    <string name="volume_steps_dtmf_title">Βήματα Έντασης: DTMF</string>
+    <string name="volume_steps_music_title">Βήματα έντασης: Πολυμέσα</string>
+    <string name="volume_steps_notification_title">Βήματα Έντασης: Ειδοποίηση</string>
+    <string name="volume_steps_ring_title">Βήματα Έντασης: Κουδούνισμα</string>
+    <string name="volume_steps_system_title">Βήματα έντασης: Σύστημα</string>
+    <string name="volume_steps_voice_call_title">Βήματα Έντασης: Κλήση</string>
     <string name="volume_steps_reset">Επαναφορά</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Καθαρό μαύρο</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">Ανατολή ηλίου</string>
     <string name="always_on_display_schedule_mixed_sunset">Ανάβει από τη δύση του ηλίου μέχρι κάποια στιγμή</string>
     <string name="always_on_display_schedule_mixed_sunrise">Ανάβει από μια ώρα μέχρι την ανατολή του ηλίου</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Δύναμη LTE CA</string>
+    <string name="force_lte_ca_summary">Αναγκάστε τη συγκέντρωση φορέων LTE να λειτουργήσει</string>
 </resources>

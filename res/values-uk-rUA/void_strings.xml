@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">Схід сонця</string>
     <string name="always_on_display_schedule_mixed_sunset">Вмикається від заходу до заданого часу</string>
     <string name="always_on_display_schedule_mixed_sunrise">Вмикається час від заданого часу до сходу сонця</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Примусово увімкнути LTE CA</string>
+    <string name="force_lte_ca_summary">Примусово застосовувати агрегацію операторів LTE</string>
 </resources>

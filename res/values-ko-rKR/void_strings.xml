@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">볼륨 단계</string>
     <string name="volume_steps_summary">볼륨 단계 사용자 지정</string>
-    <string name="volume_steps_alarm_title">알람</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">미디어</string>
-    <string name="volume_steps_notification_title">알림</string>
-    <string name="volume_steps_ring_title">벨소리</string>
-    <string name="volume_steps_system_title">시스템</string>
-    <string name="volume_steps_voice_call_title">음성 통화</string>
+    <string name="volume_steps_alarm_title">볼륨 단계: 알람</string>
+    <string name="volume_steps_dtmf_title">볼륨 단계: DTMF</string>
+    <string name="volume_steps_music_title">볼륨 단계: 미디어</string>
+    <string name="volume_steps_notification_title">볼륨 단계: 알림</string>
+    <string name="volume_steps_ring_title">볼륨 단계: 링거</string>
+    <string name="volume_steps_system_title">볼륨 단계: 시스템</string>
+    <string name="volume_steps_voice_call_title">볼륨 단계: 음성 통화</string>
     <string name="volume_steps_reset">다시 맞추다</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">퓨어 블랙</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">해돋이</string>
     <string name="always_on_display_schedule_mixed_sunset">일몰부터 일정 시간까지 켜짐</string>
     <string name="always_on_display_schedule_mixed_sunrise">일출까지의 시간부터 점등</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">강제 LTE CA</string>
+    <string name="force_lte_ca_summary">LTE 통신사 집계 강제 작동</string>
 </resources>

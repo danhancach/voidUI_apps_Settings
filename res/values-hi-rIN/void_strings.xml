@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
     <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
-    <string name="volume_steps_alarm_title">खतरे की घंटी</string>
-    <string name="volume_steps_dtmf_title">डीटीएमएफ</string>
-    <string name="volume_steps_music_title">मिडिया</string>
-    <string name="volume_steps_notification_title">अधिसूचना</string>
-    <string name="volume_steps_ring_title">घंटी</string>
-    <string name="volume_steps_system_title">प्रणाली</string>
-    <string name="volume_steps_voice_call_title">आवाज कॉल</string>
+    <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
+    <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
+    <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
+    <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
+    <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
+    <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
+    <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
     <string name="volume_steps_reset">रीसेट करें</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">शुद्ध काल</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">सूर्योदय</string>
     <string name="always_on_display_schedule_mixed_sunset">सूर्यास्त से एक समय तक चालू रहता है</string>
     <string name="always_on_display_schedule_mixed_sunrise">एक समय से सूर्योदय तक चालू रहता है</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">फोर्स एलटीई सीए</string>
+    <string name="force_lte_ca_summary">LTE कैरियर एग्रीगेशन को काम करने के लिए फ़ोर्स करें</string>
 </resources>

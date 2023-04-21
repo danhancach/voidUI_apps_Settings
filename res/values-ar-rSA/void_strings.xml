@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">درجات الصوت</string>
     <string name="volume_steps_summary">تعديل درجات الصوت</string>
-    <string name="volume_steps_alarm_title">Alarm</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">الوسائط</string>
-    <string name="volume_steps_notification_title">إشعار</string>
-    <string name="volume_steps_ring_title">Ringer</string>
-    <string name="volume_steps_system_title">النظام</string>
-    <string name="volume_steps_voice_call_title">مكالمة صوتية</string>
+    <string name="volume_steps_alarm_title">درجات الصوت: المنبه</string>
+    <string name="volume_steps_dtmf_title">درجات الصوت: DTMF</string>
+    <string name="volume_steps_music_title">درجات الصوت: الوسائط</string>
+    <string name="volume_steps_notification_title">درجات الصوت: الإشعارات</string>
+    <string name="volume_steps_ring_title">درجات الصوت: الرنين</string>
+    <string name="volume_steps_system_title">درجات الصوت: النظام</string>
+    <string name="volume_steps_voice_call_title">درجات الصوت: المكالمات</string>
     <string name="volume_steps_reset">إعادة تعيين</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">اسود نقي</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">شروق الشمس</string>
     <string name="always_on_display_schedule_mixed_sunset">يتحول من غروب الشمس حتى وقت</string>
     <string name="always_on_display_schedule_mixed_sunrise">يعمل من وقت حتى شروق الشمس</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">فرض LTE CA</string>
+    <string name="force_lte_ca_summary">إجبار تجميع الناقل LTE على العمل</string>
 </resources>

@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">Ses seviyeleri</string>
     <string name="volume_steps_summary">Ses seviyelerini özelleştir</string>
-    <string name="volume_steps_alarm_title">Alarm</string>
-    <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Medya</string>
-    <string name="volume_steps_notification_title">Bildirim</string>
-    <string name="volume_steps_ring_title">Ringer</string>
-    <string name="volume_steps_system_title">Sistem</string>
-    <string name="volume_steps_voice_call_title">Sesli Arama</string>
+    <string name="volume_steps_alarm_title">Ses seviyeleri: Alarm</string>
+    <string name="volume_steps_dtmf_title">Ses seviyeleri: DMTF</string>
+    <string name="volume_steps_music_title">Ses seviyeleri: Medya</string>
+    <string name="volume_steps_notification_title">Ses seviyeleri: Bildirimler</string>
+    <string name="volume_steps_ring_title">Ses seviyeleri: Zil sesi</string>
+    <string name="volume_steps_system_title">Ses seviyeleri: Sistem</string>
+    <string name="volume_steps_voice_call_title">Ses seviyeleri: Sesli Arama</string>
     <string name="volume_steps_reset">Sıfırla</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Saf siyah</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">gündoğumu</string>
     <string name="always_on_display_schedule_mixed_sunset">Gün batımından bir zamana kadar açılır</string>
     <string name="always_on_display_schedule_mixed_sunrise">Bir zamandan gün doğumuna kadar açılır</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">LTE CA\'yı Zorla</string>
+    <string name="force_lte_ca_summary">LTE taşıyıcı toplamayı çalışmaya zorlayın</string>
 </resources>

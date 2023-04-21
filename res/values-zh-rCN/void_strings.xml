@@ -53,13 +53,13 @@
     <!-- Volume Steps Fragment -->
     <string name="volume_steps_fragment_title">音量阶数</string>
     <string name="volume_steps_summary">自定义音量阶数</string>
-    <string name="volume_steps_alarm_title">闹钟</string>
-    <string name="volume_steps_dtmf_title">双音多频</string>
-    <string name="volume_steps_music_title">媒体</string>
-    <string name="volume_steps_notification_title">通知</string>
-    <string name="volume_steps_ring_title">铃声</string>
-    <string name="volume_steps_system_title">系统</string>
-    <string name="volume_steps_voice_call_title">语音通话</string>
+    <string name="volume_steps_alarm_title">音量阶数：闹钟</string>
+    <string name="volume_steps_dtmf_title">音量阶数：双音多频</string>
+    <string name="volume_steps_music_title">音量阶数：媒体</string>
+    <string name="volume_steps_notification_title">音量阶数：通知</string>
+    <string name="volume_steps_ring_title">音量阶数：铃声</string>
+    <string name="volume_steps_system_title">音量阶数：系统</string>
+    <string name="volume_steps_voice_call_title">音量阶数：语音通话</string>
     <string name="volume_steps_reset">重置</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">纯黑色</string>
@@ -99,4 +99,7 @@
     <string name="always_on_display_schedule_sunrise">日出</string>
     <string name="always_on_display_schedule_mixed_sunset">从日落到某个时间点亮</string>
     <string name="always_on_display_schedule_mixed_sunrise">从一个时间点亮到日出</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">迫使LTE CA</string>
+    <string name="force_lte_ca_summary">迫使LTE载波聚合工作</string>
 </resources>
