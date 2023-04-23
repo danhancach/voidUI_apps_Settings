@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">LTE CA erzwingen</string>
     <string name="force_lte_ca_summary">Erzwingen der LTE-Trägeraggregation</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Umkehrung des Layouts der Navigationsleiste</string>
+    <string name="navbar_invert_info">Vertauschen Sie die Schaltflächen \"Zurück\" und \"Favoriten\" in der Navigationsleiste</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Aktualisierungsrate verringern</string>
+    <string name="battery_saver_refresh_rate_summary">Verwenden Sie eine Bildwiederholfrequenz von 60 Hz, um Strom zu sparen, wenn der Batterieschutz aktiviert ist.</string>
 </resources>

@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Примусово увімкнути LTE CA</string>
     <string name="force_lte_ca_summary">Примусово застосовувати агрегацію операторів LTE</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Інвертувати розкладку панелі навігації</string>
+    <string name="navbar_invert_info">Поміняти місцями кнопки \"Назад\" та \"Нещодавні\" на панелі навігації</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Зменшити частоту оновлення екрану</string>
+    <string name="battery_saver_refresh_rate_summary">Використовувати частоту оновлення екрана 60 Гц, коли увімкнено режим економії заряду батареї</string>
 </resources>

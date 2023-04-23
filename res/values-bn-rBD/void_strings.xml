@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">জোর করে LTE CA</string>
     <string name="force_lte_ca_summary">LTE ক্যারিয়ার সমষ্টিকে কাজ করতে বাধ্য করুন</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">নেভিগেশন বার লেআউট উল্টানো</string>
+    <string name="navbar_invert_info">নেভিগেশন বারে \"ব্যাক\" এবং \"রিসেন্ট\" বোতামগুলি অদলবদল করুন৷</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">রিফ্রেশ রেট কমিয়ে দিন</string>
+    <string name="battery_saver_refresh_rate_summary">ব্যাটারি সেভার চালু থাকলে পাওয়ার সাশ্রয় করতে 60 Hz স্ক্রীন রিফ্রেশ রেট ব্যবহার করুন</string>
 </resources>

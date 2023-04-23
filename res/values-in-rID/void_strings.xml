@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Paksa LTE CA</string>
     <string name="force_lte_ca_summary">Memaksakan agregasi operator LTE untuk bekerja</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Membalikkan tata letak bilah navigasi</string>
+    <string name="navbar_invert_info">Menukar tombol \"Back\" dan \"Recents\" pada bilah navigasi</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Mengurangi kecepatan refresh</string>
+    <string name="battery_saver_refresh_rate_summary">Gunakan kecepatan refresh layar 60 Hz untuk menghemat daya saat Penghemat Baterai aktif</string>
 </resources>

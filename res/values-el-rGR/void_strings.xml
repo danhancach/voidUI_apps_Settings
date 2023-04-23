@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Δύναμη LTE CA</string>
     <string name="force_lte_ca_summary">Αναγκάστε τη συγκέντρωση φορέων LTE να λειτουργήσει</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Αντιστροφή της διάταξης της γραμμής πλοήγησης</string>
+    <string name="navbar_invert_info">Ανταλλάξτε τα κουμπιά \"Back\" και \"Recents\" στη γραμμή πλοήγησης</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Μειώστε το ρυθμό ανανέωσης</string>
+    <string name="battery_saver_refresh_rate_summary">Χρήση ρυθμού ανανέωσης οθόνης 60 Hz για εξοικονόμηση ενέργειας όταν είναι ενεργοποιημένη η Εξοικονόμηση μπαταρίας</string>
 </resources>

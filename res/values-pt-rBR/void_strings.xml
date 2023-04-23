@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Forçar a LTE CA</string>
     <string name="force_lte_ca_summary">Forçar a agregação de portadores de LTE a trabalhar</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Inverter o layout da barra de navegação</string>
+    <string name="navbar_invert_info">Inverter os botões \"Voltar\" e \"Recentes\" na barra de navegação</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduzir a taxa de refrescamento</string>
+    <string name="battery_saver_refresh_rate_summary">Use a taxa de actualização do ecrã de 60 Hz para poupar energia quando a Bateria Saver está ligada</string>
 </resources>

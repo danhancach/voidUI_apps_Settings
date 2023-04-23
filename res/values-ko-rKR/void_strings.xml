@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">강제 LTE CA</string>
     <string name="force_lte_ca_summary">LTE 통신사 집계 강제 작동</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">탐색 모음 레이아웃 반전</string>
+    <string name="navbar_invert_info">탐색 표시줄의 \'뒤로\' 및 \'최근\' 버튼을 바꿉니다.</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">새로 고침 빈도 줄이기</string>
+    <string name="battery_saver_refresh_rate_summary">배터리 세이버가 켜져 있을 때 60Hz 화면 재생률을 사용하여 전원을 절약하세요.</string>
 </resources>

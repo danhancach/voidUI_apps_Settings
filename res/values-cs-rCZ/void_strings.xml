@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Force LTE CA</string>
     <string name="force_lte_ca_summary">Vynucení agregace operátorů LTE</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Invertování rozvržení navigačního panelu</string>
+    <string name="navbar_invert_info">Výměna tlačítek \"Zpět\" a \"Poslední\" na navigačním panelu</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Snížení obnovovací frekvence</string>
+    <string name="battery_saver_refresh_rate_summary">Použití obnovovací frekvence obrazovky 60 Hz pro úsporu energie při zapnutém spořiči baterie</string>
 </resources>

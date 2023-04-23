@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">اجباری LTE CA</string>
     <string name="force_lte_ca_summary">تجمع شرکت مخابراتی LTE را مجبور به کار کنید</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">طرح بندی نوار پیمایش را معکوس کنید</string>
+    <string name="navbar_invert_info">دکمه های «بازگشت» و «اخیرا» را در نوار پیمایش عوض کنید</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">نرخ تازه سازی را کاهش دهید</string>
+    <string name="battery_saver_refresh_rate_summary">وقتی «بهینه‌سازی باتری» روشن است، از نرخ تازه‌سازی صفحه 60 هرتز برای صرفه‌جویی در مصرف برق استفاده کنید</string>
 </resources>

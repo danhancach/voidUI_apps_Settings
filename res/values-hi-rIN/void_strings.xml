@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">फोर्स एलटीई सीए</string>
     <string name="force_lte_ca_summary">LTE कैरियर एग्रीगेशन को काम करने के लिए फ़ोर्स करें</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">उलटा नेविगेशन बार लेआउट</string>
+    <string name="navbar_invert_info">नेविगेशन बार पर \"बैक\" और \"हाल के\" बटन स्वैप करें</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">ताज़ा दर कम करें</string>
+    <string name="battery_saver_refresh_rate_summary">बैटरी सेवर चालू होने पर बिजली बचाने के लिए 60 हर्ट्ज स्क्रीन रिफ्रेश रेट का उपयोग करें</string>
 </resources>

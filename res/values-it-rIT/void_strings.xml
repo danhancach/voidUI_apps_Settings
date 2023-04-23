@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Forza LTE CA</string>
     <string name="force_lte_ca_summary">Costringere l\'aggregazione di portanti LTE a funzionare</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Invertire il layout della barra di navigazione</string>
+    <string name="navbar_invert_info">Scambio dei pulsanti \"Indietro\" e \"Recenti\" sulla barra di navigazione</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Ridurre la frequenza di aggiornamento</string>
+    <string name="battery_saver_refresh_rate_summary">Utilizza una frequenza di aggiornamento dello schermo di 60 Hz per risparmiare energia quando è attivo il Risparmio batteria.</string>
 </resources>

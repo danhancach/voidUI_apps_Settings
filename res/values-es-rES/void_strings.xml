@@ -18,7 +18,7 @@
     <string name="copied_to_clipboard">Copiado al portapapeles</string>
     <string name="longpress_to_clipboard">Pulsación larga para copiar</string>
     <!-- Wi-Fi Icon Standard -->
-    <string name="show_wifi_standard_icon_title">Mostrar icono de tipo Wi-Fi</string>
+    <string name="show_wifi_standard_icon_title">Mostrar icono del tipo de Wi-Fi</string>
     <string name="show_wifi_standard_icon_summary">Mostrar el tipo de Wi-Fi en el indicador de señal Wi-Fi</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorar la bandera de ventana segura</string>
@@ -30,7 +30,7 @@
     <string name="pattern_mm_mm_mm">mm-mm-mm</string>
     <string name="pattern_da_da_dzzz">da-da-dzzz</string>
     <string name="pattern_da_dzzz_da">da-dzzz-da</string>
-    <string name="pattern_custom">A medida</string>
+    <string name="pattern_custom">Personalizar</string>
     <string name="custom_vibration_pattern_title">Patrón personalizado</string>
     <string name="custom_vibration_pattern_summary">Configura un patrón de vibración personalizado</string>
     <!-- Notch: Full screen apps -->
@@ -51,15 +51,15 @@
     <string name="reticker_colored_title">Usar fondo coloreado de la aplicación</string>
     <string name="reticker_colored_summary">Reemplazar el color de fondo del reTicker usando el color principal de la aplicación que notifica</string>
     <!-- Volume Steps Fragment -->
-    <string name="volume_steps_fragment_title">Pasos de volumen</string>
+    <string name="volume_steps_fragment_title">Niveles de volumen</string>
     <string name="volume_steps_summary">Personalizar los intervalos de volumen</string>
-    <string name="volume_steps_alarm_title">Pasos de volumen: Alarma</string>
-    <string name="volume_steps_dtmf_title">Pasos de volumen: DTMF</string>
-    <string name="volume_steps_music_title">Pasos de volumen: Multimedia</string>
-    <string name="volume_steps_notification_title">Pasos de volumen: Notificación</string>
-    <string name="volume_steps_ring_title">Pasos de volumen: Tono de llamada</string>
-    <string name="volume_steps_system_title">Pasos de volumen: Sistema</string>
-    <string name="volume_steps_voice_call_title">Pasos de volumen: Llamada</string>
+    <string name="volume_steps_alarm_title">Niveles de volumen: Alarma</string>
+    <string name="volume_steps_dtmf_title">Niveles de volumen: DTMF</string>
+    <string name="volume_steps_music_title">Niveles de volumen: Multimedia</string>
+    <string name="volume_steps_notification_title">Niveles de volumen: Notificación</string>
+    <string name="volume_steps_ring_title">Niveles de volumen: Tono de llamada</string>
+    <string name="volume_steps_system_title">Niveles de volumen: Sistema</string>
+    <string name="volume_steps_voice_call_title">Niveles de volumen: Llamada</string>
     <string name="volume_steps_reset">Restablecer</string>
     <!-- Black theme for dark mode -->
     <string name="black_bg_title">Negro puro</string>
@@ -71,35 +71,41 @@
     <string name="theme_style_tonal_spot">Punto tonal (predeterminado)</string>
     <string name="theme_style_vibrant">Vibrante</string>
     <string name="theme_style_expressive">Expresivo</string>
-    <string name="theme_style_spritz">Rociar</string>
+    <string name="theme_style_spritz">Rocío</string>
     <string name="theme_style_rainbow">Arcoíris</string>
     <string name="theme_style_fruit_salad">Ensalada de frutas</string>
     <string name="theme_style_muted">Apagado</string>
     <string name="theme_style_content">Contenido</string>
-    <string name="color_source_title">fuente de color</string>
+    <string name="color_source_title">Fuente de color</string>
     <string name="color_source_both">Ambos (Predeterminado)</string>
     <string name="color_source_home">Fondo de pantalla de inicio</string>
     <string name="color_source_lock">Fondo de pantalla de bloqueo</string>
     <string name="color_source_preset">Preestablecido</string>
     <string name="accent_color_title">Acentuar el color</string>
     <string name="accent_color_summary">Anular el color de énfasis predeterminado</string>
-    <string name="accent_background_title">Fondo de acento</string>
+    <string name="accent_background_title">Acento del fondo</string>
     <string name="accent_background_summary">Elija un color de acento diferente para el fondo</string>
     <string name="bg_color_title">Color de fondo</string>
-    <string name="bg_color_summary">Anular el color de acento de fondo predeterminado</string>
-    <string name="luminance_factor_title">Luminancia</string>
+    <string name="bg_color_summary">Anular el color de acento del fondo predeterminado</string>
+    <string name="luminance_factor_title">Luminosidad</string>
     <string name="luminance_factor_summary">Los valores más altos producen colores más brillantes</string>
-    <string name="chroma_factor_title">croma</string>
+    <string name="chroma_factor_title">Croma</string>
     <string name="chroma_factor_summary">Los valores más altos producen colores más fuertes</string>
-    <string name="tint_background_title">Fondo de tinte</string>
-    <string name="tint_background_summary">Hacer que la selección de luminancia y croma también afecte a los colores de fondo</string>
+    <string name="tint_background_title">Tinte del fondo</string>
+    <string name="tint_background_summary">Hacer que la selección de luminosidad y croma también afecte a los colores del fondo</string>
     <!-- AOD Schedule -->
-    <string name="always_on_display_schedule_title">Horario de exhibición siempre</string>
+    <string name="always_on_display_schedule_title">Establecer horario de AOD</string>
     <string name="always_on_display_schedule_sunset">Atardecer</string>
     <string name="always_on_display_schedule_sunrise">Amanecer</string>
-    <string name="always_on_display_schedule_mixed_sunset">Se enciende desde la puesta del sol hasta una hora</string>
-    <string name="always_on_display_schedule_mixed_sunrise">Se enciende desde un momento hasta el amanecer</string>
+    <string name="always_on_display_schedule_mixed_sunset">Se enciende desde la puesta del sol hasta una hora concreta</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Se enciende desde una hora concreta hasta el amanecer</string>
     <!-- Force LTE_CA -->
-    <string name="force_lte_ca">Fuerza LTE CA</string>
+    <string name="force_lte_ca">Forzar LTE CA</string>
     <string name="force_lte_ca_summary">Forzar el funcionamiento de la agregación de portadoras LTE</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Invertir el diseño de la barra de navegación</string>
+    <string name="navbar_invert_info">Intercambiar los botones \"Atrás\" y \"Recientes\" de la barra de navegación</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reducir la frecuencia de actualización</string>
+    <string name="battery_saver_refresh_rate_summary">Utiliza una frecuencia de refresco de pantalla de 60 Hz para ahorrar energía cuando el Economizador de Batería está activado.</string>
 </resources>

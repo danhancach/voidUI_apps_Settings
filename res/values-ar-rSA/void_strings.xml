@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">فرض LTE CA</string>
     <string name="force_lte_ca_summary">إجبار تجميع الناقل LTE على العمل</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">عكس تخطيط شريط التنقل</string>
+    <string name="navbar_invert_info">مبادلة أزرار \"الرجوع\" و \"التطبيقات الحديثة\" على شريط التنقل</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">تقليل معدل التحديث</string>
+    <string name="battery_saver_refresh_rate_summary">استخدم معدل تحديث الشاشة 60 هرتز لتوفير الطاقة عند تشغيل \"توفير شحن البطارية\"</string>
 </resources>

@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">Kracht LTE CA</string>
     <string name="force_lte_ca_summary">Dwing LTE-draaggolfaggregatie om te werken</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Lay-out van de navigatiebalk omkeren</string>
+    <string name="navbar_invert_info">Verwissel de knoppen \"Terug\" en \"Recents\" op de navigatiebalk</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Vernieuwingsfrequentie verlagen</string>
+    <string name="battery_saver_refresh_rate_summary">Gebruik 60 Hz schermverversing om energie te besparen wanneer Battery Saver is ingeschakeld.</string>
 </resources>

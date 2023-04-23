@@ -103,4 +103,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">強制 LTE CA</string>
     <string name="force_lte_ca_summary">強制 LTE 載波聚合工作</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">反轉導航欄佈局</string>
+    <string name="navbar_invert_info">交換導航欄上的“後退”和“最近”按鈕</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">開啟節電模式時使用 60 Hz 屏幕刷新率以節省電量</string>
 </resources>

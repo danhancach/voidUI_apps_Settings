@@ -94,12 +94,18 @@
     <string name="tint_background_title">着色背景</string>
     <string name="tint_background_summary">让背景色彩也使用自定义亮度和色度</string>
     <!-- AOD Schedule -->
-    <string name="always_on_display_schedule_title">始终显示时间表</string>
+    <string name="always_on_display_schedule_title">息屏显示时间表</string>
     <string name="always_on_display_schedule_sunset">日落</string>
     <string name="always_on_display_schedule_sunrise">日出</string>
-    <string name="always_on_display_schedule_mixed_sunset">从日落到某个时间点亮</string>
-    <string name="always_on_display_schedule_mixed_sunrise">从一个时间点亮到日出</string>
+    <string name="always_on_display_schedule_mixed_sunset">自日落开启到某一时间关闭</string>
+    <string name="always_on_display_schedule_mixed_sunrise">自某一时间开启到日出关闭</string>
     <!-- Force LTE_CA -->
-    <string name="force_lte_ca">迫使LTE CA</string>
-    <string name="force_lte_ca_summary">迫使LTE载波聚合工作</string>
+    <string name="force_lte_ca">LTE 载波聚合</string>
+    <string name="force_lte_ca_summary">强制开启 LTE 载波聚合</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">倒置导航栏布局</string>
+    <string name="navbar_invert_info">调换导航栏上的 \"返回 \"和 \"回顾 \"按钮</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">使用60赫兹的屏幕刷新率，当电池保护器开启时，可以节省电力</string>
 </resources>

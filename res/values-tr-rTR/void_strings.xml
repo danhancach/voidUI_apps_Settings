@@ -102,4 +102,10 @@
     <!-- Force LTE_CA -->
     <string name="force_lte_ca">LTE CA\'yı Zorla</string>
     <string name="force_lte_ca_summary">LTE taşıyıcı toplamayı çalışmaya zorlayın</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Gezinti çubuğu düzenini ters çevirme</string>
+    <string name="navbar_invert_info">Gezinme çubuğundaki \"Geri\" ve \"Son Kullanılanlar\" düğmelerini değiştirin</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Yenileme hızını azaltın</string>
+    <string name="battery_saver_refresh_rate_summary">Pil Tasarrufu açıkken güç tasarrufu için 60 Hz ekran yenileme hızını kullanın</string>
 </resources>
