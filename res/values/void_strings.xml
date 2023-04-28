@@ -130,4 +130,8 @@
     <!-- Quick unlock -->
    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G icon</string>
+    <string name="show_fourg_icon_summary">Display 4G in signal icon instead of LTE</string>
 </resources>
