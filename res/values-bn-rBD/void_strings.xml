@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI মুক্তির ভার্সন</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">যন্ত্রের মেইনটেইনার</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">ন্যাভিগেশন বার</string>
+    <string name="immersive_navigation_title">ইমারসিভ নেভিগেশন</string>
+    <string name="immersive_navigation_summary">জেসচার পিল এবং নেভিগেশন বার প্যাডিং লুকান।</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">গুগল প্লে</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="longpress_to_clipboard">কপি করতে দীর্ঘক্ষণ প্রেস করুন</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">ওয়াই-ফাই টাইপ আইকন দেখান</string>
+    <string name="show_wifi_standard_icon_summary">Wi-Fi সংকেত সূচকে Wi-Fi প্রকার দেখান</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">নিরাপদ উইন্ডো পতাকা উপেক্ষা করুন</string>
+    <string name="ignore_window_secure_summary">সমস্ত অ্যাপের জন্য স্ক্রিনশট এবং স্ক্রিন রেকর্ড সীমা সরান। এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে কিন্তু গোপনীয়তা ফাঁস হতে পারে।</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">রিংটোন ভাইব্রেশন প্যাটার্ন</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">মিমি-মিমি-মিমি</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">কাস্টম</string>
+    <string name="custom_vibration_pattern_title">কাস্টম প্যাটার্ন</string>
+    <string name="custom_vibration_pattern_summary">একটি কাস্টম ভাইব্রেশন প্যাটার্ন সেট করুন</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">পূর্ণ স্ক্রিন অ্যাপসমূহ</string>
+    <string name="display_cutout_force_fullscreen_summary">অ্যাপ্লিকেশনগুলিকে নচ উপেক্ষা করতে বাধ্য করুন</string>
+    <string name="search">খুজুন</string>
+    <string name="search_apps">অ্যাপ খুঁজুন</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">অ্যাপ ভলিউম</string>
+    <string name="app_volume_title">প্রতি-অ্যাপ ভলিউম নিয়ন্ত্রণ</string>
+    <string name="app_volume_summary">প্রতিটি অ্যাপের জন্য বিভিন্ন ভলিউম লেভেল সেট করার অনুমতি দিন</string>
+    <!-- Game Space -->
+    <string name="game_space_title">গেমের জায়গা</string>
+    <string name="game_space_summary">আপনার গেমিং অভিজ্ঞতা উন্নত করুন</string>
+    <!-- reTicker -->
+    <string name="reticker_title">রি-টিকার</string>
+    <string name="reticker_summary">চিকন ও কম আক্রমনাত্মক নতুন রূপের রি টিকার দ্বারা হেডস আপ নোটিফিকেশন প্রতিস্থাপন করুন</string>
+    <string name="reticker_colored_title">অ্যাপ এর রঙের ব্যাকগ্রাউন্ড ব্যাবহার করুন</string>
+    <string name="reticker_colored_summary">রি টিকারের ব্যাকগ্রাউন্ড রঙ অ্যাপ এর নোটিফিকেশনের প্রধান রঙ দ্বারা প্রতিস্থাপন করুন</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
+    <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
+    <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
+    <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
+    <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
+    <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
+    <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
+    <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
+    <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
+    <string name="volume_steps_reset">পুনরায় সেট করুন</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">খাঁটি কালো</string>
+    <string name="black_bg_summary">অন্ধকার থিমের জন্য খাঁটি কালো ব্যাকগ্রাউন্ড</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">থিমিং সেটিংস</string>
+    <string name="monet_settings_sammary">মনিট ইঞ্জিন কাস্টমাইজ করার জন্য কয়েকটি অতিরিক্ত সেটিংস</string>
+    <string name="theme_style_title">থিম শৈলী</string>
+    <string name="theme_style_tonal_spot">টোনাল স্পট (ডিফল্ট)</string>
+    <string name="theme_style_vibrant">প্রাণবন্ত</string>
+    <string name="theme_style_expressive">অভিব্যক্তিপূর্ণ</string>
+    <string name="theme_style_spritz">স্প্রিটজ</string>
+    <string name="theme_style_rainbow">রংধনু</string>
+    <string name="theme_style_fruit_salad">ফলের সালাদ</string>
+    <string name="theme_style_muted">নিঃশব্দ</string>
+    <string name="theme_style_content">বিষয়বস্তু</string>
+    <string name="color_source_title">রঙের উৎস</string>
+    <string name="color_source_both">উভয় (ডিফল্ট)</string>
+    <string name="color_source_home">হোম ওয়ালপেপার</string>
+    <string name="color_source_lock">ওয়ালপেপার লক করুন</string>
+    <string name="color_source_preset">প্রিসেট</string>
+    <string name="accent_color_title">সুরের ধাপের রঙ</string>
+    <string name="accent_color_summary">ডিফল্ট অ্যাকসেন্ট রঙ ওভাররাইড করুন</string>
+    <string name="accent_background_title">অ্যাকসেন্ট ব্যাকগ্রাউন্ড</string>
+    <string name="accent_background_summary">পটভূমির জন্য একটি ভিন্ন উচ্চারণ রঙ চয়ন করুন</string>
+    <string name="bg_color_title">পেছনের রং</string>
+    <string name="bg_color_summary">ডিফল্ট ব্যাকগ্রাউন্ড অ্যাকসেন্ট রঙ ওভাররাইড করুন</string>
+    <string name="luminance_factor_title">আলোকসজ্জা</string>
+    <string name="luminance_factor_summary">উচ্চ মান উজ্জ্বল রং উত্পাদন</string>
+    <string name="chroma_factor_title">ক্রোমা</string>
+    <string name="chroma_factor_summary">উচ্চ মান শক্তিশালী রং উত্পাদন</string>
+    <string name="tint_background_title">টিন্ট ব্যাকগ্রাউন্ড</string>
+    <string name="tint_background_summary">লুমিন্যান্স এবং ক্রোমা নির্বাচন পটভূমির রঙগুলিকেও প্রভাবিত করে</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">সর্বদা প্রদর্শনের সময়সূচীতে</string>
+    <string name="always_on_display_schedule_sunset">সূর্যাস্ত</string>
+    <string name="always_on_display_schedule_sunrise">সূর্যোদয়</string>
+    <string name="always_on_display_schedule_mixed_sunset">সূর্যাস্ত থেকে একটি সময় পর্যন্ত চালু হয়</string>
+    <string name="always_on_display_schedule_mixed_sunrise">একটি সময় থেকে সূর্যোদয় পর্যন্ত চালু হয়</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">জোর করে LTE CA</string>
+    <string name="force_lte_ca_summary">LTE ক্যারিয়ার সমষ্টিকে কাজ করতে বাধ্য করুন</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">নেভিগেশন বার লেআউট উল্টানো</string>
+    <string name="navbar_invert_info">নেভিগেশন বারে \"ব্যাক\" এবং \"রিসেন্ট\" বোতামগুলি অদলবদল করুন৷</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">রিফ্রেশ রেট কমিয়ে দিন</string>
+    <string name="battery_saver_refresh_rate_summary">ব্যাটারি সেভার চালু থাকলে পাওয়ার সাশ্রয় করতে 60 Hz স্ক্রীন রিফ্রেশ রেট ব্যবহার করুন</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">QS ফুটারে দৈনিক ডেটা ব্যবহার</string>
+    <string name="qs_footer_datausage_summary">Qs সেটিংস ফুটারে দৈনিক ডেটা ব্যবহারের সারাংশ প্রদর্শন করুন</string>
+</resources>

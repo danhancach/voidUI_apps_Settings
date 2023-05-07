@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">نسخه انتشار VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">توسعه دهنده دستگاه</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">نوار ناوبری</string>
+    <string name="immersive_navigation_title">ناوبری معلق</string>
+    <string name="immersive_navigation_summary">مخفی کردن خط ناوبری و فاصله نوار ناوبری.</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">فروشگاه گوگل</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">در کلیپ‌بورد کپی شد</string>
+    <string name="longpress_to_clipboard">برای کپی کردن به صورت طولانی لمس کنید</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">نمایش نوع آیکون Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">نمایش نوع و نمایشگر سیگنال Wi-Fi</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">پرچم پنجره امن را نادیده بگیرید</string>
+    <string name="ignore_window_secure_summary">محدودیت های اسکرین شات و ضبط صفحه را برای همه برنامه ها حذف کنید. این می تواند در برخی موارد راحت باشد اما ممکن است منجر به نشت حریم خصوصی شود.</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">الگوی لرزش آهنگ زنگ</string>
+    <string name="pattern_dzzz_dzzz">دزز-دزز</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">سفارشی</string>
+    <string name="custom_vibration_pattern_title">الگوی سفارشی</string>
+    <string name="custom_vibration_pattern_summary">یک الگوی ارتعاشی سفارشی تنظیم کنید</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">برنامه های تمام صفحه</string>
+    <string name="display_cutout_force_fullscreen_summary">اجبار برنامه ها برای نادیده گرفتن شکاف صفحه</string>
+    <string name="search">جُستجو</string>
+    <string name="search_apps">جستجوی برنامه‌ها</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">حجم برنامه</string>
+    <string name="app_volume_title">کنترل صدا برای هر برنامه</string>
+    <string name="app_volume_summary">به تنظیم سطوح مختلف صدا برای هر برنامه اجازه دهید</string>
+    <!-- Game Space -->
+    <string name="game_space_title">فضای بازی</string>
+    <string name="game_space_summary">تجربه بازی خود را بهبود بدهید</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">اعلان فوری را با نسخه باریک و کمتر تهاجمی ticker بازطراحی شده جایگزین کنید</string>
+    <string name="reticker_colored_title">استفاده از پس زمینه رنگی برنامه</string>
+    <string name="reticker_colored_summary">جایگزین کردن رنگ پس زمینه reTicker با استفاده از رنگ اصلی اعلان برنامه</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">مراحل حجم</string>
+    <string name="volume_steps_summary">سفارشی کردن مراحل حجم</string>
+    <string name="volume_steps_alarm_title">مراحل ولوم: زنگ هشدار</string>
+    <string name="volume_steps_dtmf_title">مراحل حجم: DTMF</string>
+    <string name="volume_steps_music_title">مراحل حجم: رسانه</string>
+    <string name="volume_steps_notification_title">مراحل حجم: اعلان</string>
+    <string name="volume_steps_ring_title">مراحل حجم: زنگ</string>
+    <string name="volume_steps_system_title">مراحل حجم: سیستم</string>
+    <string name="volume_steps_voice_call_title">مراحل صدا: تماس صوتی</string>
+    <string name="volume_steps_reset">بازنشانی کنید</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">مشکی خالص</string>
+    <string name="black_bg_summary">پس زمینه سیاه خالص برای تم تیره</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">تنظیمات تم</string>
+    <string name="monet_settings_sammary">چند تنظیمات اضافی برای سفارشی کردن موتور پول</string>
+    <string name="theme_style_title">سبک تم</string>
+    <string name="theme_style_tonal_spot">نقطه تونال (پیش‌فرض)</string>
+    <string name="theme_style_vibrant">پر جنب و جوش</string>
+    <string name="theme_style_expressive">رسا</string>
+    <string name="theme_style_spritz">اسپریتز</string>
+    <string name="theme_style_rainbow">رنگين كمان</string>
+    <string name="theme_style_fruit_salad">سالاد میوه</string>
+    <string name="theme_style_muted">بی صدا شد</string>
+    <string name="theme_style_content">محتوا</string>
+    <string name="color_source_title">منبع رنگ</string>
+    <string name="color_source_both">هر دو (پیش‌فرض)</string>
+    <string name="color_source_home">کاغذ دیواری خانه</string>
+    <string name="color_source_lock">قفل کاغذ دیواری</string>
+    <string name="color_source_preset">از پیش تعیین شده</string>
+    <string name="accent_color_title">رنگ تاکیدی</string>
+    <string name="accent_color_summary">رنگ تاکیدی پیش‌فرض را لغو کنید</string>
+    <string name="accent_background_title">پس زمینه لهجه</string>
+    <string name="accent_background_summary">یک رنگ تاکیدی متفاوت برای پس زمینه انتخاب کنید</string>
+    <string name="bg_color_title">رنگ پس زمینه</string>
+    <string name="bg_color_summary">رنگ لهجه پیش‌فرض پس‌زمینه را لغو کنید</string>
+    <string name="luminance_factor_title">درخشندگی</string>
+    <string name="luminance_factor_summary">مقادیر بالاتر رنگ های روشن تری تولید می کنند</string>
+    <string name="chroma_factor_title">کروما</string>
+    <string name="chroma_factor_summary">مقادیر بالاتر رنگ های قوی تری تولید می کنند</string>
+    <string name="tint_background_title">رنگ پس زمینه</string>
+    <string name="tint_background_summary">انتخاب Luminance و Chroma روی رنگ‌های پس‌زمینه نیز تأثیر بگذارد</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">همیشه در برنامه نمایش</string>
+    <string name="always_on_display_schedule_sunset">غروب آفتاب</string>
+    <string name="always_on_display_schedule_sunrise">طلوع خورشید</string>
+    <string name="always_on_display_schedule_mixed_sunset">از غروب آفتاب تا زمانی روشن می شود</string>
+    <string name="always_on_display_schedule_mixed_sunrise">از زمانی تا طلوع خورشید روشن می شود</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">اجباری LTE CA</string>
+    <string name="force_lte_ca_summary">تجمع شرکت مخابراتی LTE را مجبور به کار کنید</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">طرح بندی نوار پیمایش را معکوس کنید</string>
+    <string name="navbar_invert_info">دکمه های «بازگشت» و «اخیرا» را در نوار پیمایش عوض کنید</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">نرخ تازه سازی را کاهش دهید</string>
+    <string name="battery_saver_refresh_rate_summary">وقتی «بهینه‌سازی باتری» روشن است، از نرخ تازه‌سازی صفحه 60 هرتز برای صرفه‌جویی در مصرف برق استفاده کنید</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">مصرف روزانه داده در فوتر QS</string>
+    <string name="qs_footer_datausage_summary">نمایش خلاصه مصرف روزانه داده در فوتر تنظیمات سریع</string>
+</resources>

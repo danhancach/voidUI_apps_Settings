@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">वॉयडयूआई रिलीज़ वर्शन</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">उपकरण अभिभावक</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">नेविगेशन बार</string>
+    <string name="immersive_navigation_title">इमर्सिव नेविगेशन</string>
+    <string name="immersive_navigation_summary">जेस्चर पिल और नेविगेशन बार पैडिंग छुपाएं।</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">गूगल प्ले</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">क्लिपबोर्ड पर नकल</string>
+    <string name="longpress_to_clipboard">कॉपी करने के लिए देर तक दबाएं</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">वाई-फाई प्रकार आइकन दिखाएं</string>
+    <string name="show_wifi_standard_icon_summary">वाई-फाई सिग्नल इंडिकेटर में वाई-फाई प्रकार दिखाएं</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">सुरक्षित विंडो फ़्लैग को अनदेखा करें</string>
+    <string name="ignore_window_secure_summary">सभी ऐप्स के लिए स्क्रीनशॉट और स्क्रीनरिकॉर्ड सीमाएं हटाएं। यह कुछ मामलों में सुविधाजनक हो सकता है लेकिन इससे गोपनीयता भंग हो सकती है।</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">रिंगटोन कंपन पैटर्न</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-दा</string>
+    <string name="pattern_mm_mm_mm">मिमी-मिमी-मिमी</string>
+    <string name="pattern_da_da_dzzz">दा-दा-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">रिवाज़</string>
+    <string name="custom_vibration_pattern_title">कस्टम पैटर्न</string>
+    <string name="custom_vibration_pattern_summary">एक कस्टम कंपन पैटर्न सेट करें</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रीन एप्लिकेशन</string>
+    <string name="display_cutout_force_fullscreen_summary">ऐप्स को नॉच स्पेस को नज़रअंदाज़ करने के लिए मजबूर करें</string>
+    <string name="search">खोजें</string>
+    <string name="search_apps">ऐप्स खोजें</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">ऐप वॉल्यूम</string>
+    <string name="app_volume_title">प्रति-ऐप वॉल्यूम नियंत्रण</string>
+    <string name="app_volume_summary">प्रत्येक ऐप के लिए अलग-अलग वॉल्यूम स्तर सेट करने की अनुमति दें</string>
+    <!-- Game Space -->
+    <string name="game_space_title">गेम स्पेस</string>
+    <string name="game_space_summary">अपने गेमिंग अनुभव को बेहतर करें</string>
+    <!-- reTicker -->
+    <string name="reticker_title">रीटिकर</string>
+    <string name="reticker_summary">हेड्स-अप नोटिफिकेशन को पुन: डिज़ाइन किए गए पतले और कम वर्शन वाले टिकर बदलें</string>
+    <string name="reticker_colored_title">ऐप रंगीत बैकग्राउंड का प्रयोग करें</string>
+    <string name="reticker_colored_summary">नोटिफिकेशन ऐप के मुख्य रंग का उपयोग करके रीटिकर बैकग्राउंड रंग बदलें</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
+    <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
+    <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
+    <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
+    <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
+    <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
+    <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
+    <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
+    <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
+    <string name="volume_steps_reset">रीसेट करें</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">शुद्ध काल</string>
+    <string name="black_bg_summary">गहरी थीम के लिए शुद्ध काली पृष्ठभूमि</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">थीमिंग सेटिंग्स</string>
+    <string name="monet_settings_sammary">मोनेट इंजन को अनुकूलित करने के लिए कुछ अतिरिक्त सेटिंग्स</string>
+    <string name="theme_style_title">थीम शैली</string>
+    <string name="theme_style_tonal_spot">टोनल स्पॉट (डिफ़ॉल्ट)</string>
+    <string name="theme_style_vibrant">जीवंत</string>
+    <string name="theme_style_expressive">अर्थपूर्ण</string>
+    <string name="theme_style_spritz">स्प्रिट</string>
+    <string name="theme_style_rainbow">इंद्रधनुष</string>
+    <string name="theme_style_fruit_salad">फलों का सलाद</string>
+    <string name="theme_style_muted">म्यूट किए गए</string>
+    <string name="theme_style_content">संतुष्ट</string>
+    <string name="color_source_title">रंग स्रोत</string>
+    <string name="color_source_both">दोनों (डिफ़ॉल्ट)</string>
+    <string name="color_source_home">होम वॉलपेपर</string>
+    <string name="color_source_lock">वॉलपेपर लॉक करें</string>
+    <string name="color_source_preset">प्रीसेट</string>
+    <string name="accent_color_title">स्वरोंका रंग</string>
+    <string name="accent_color_summary">डिफ़ॉल्ट एक्सेंट रंग को ओवरराइड करें</string>
+    <string name="accent_background_title">एक्सेंट पृष्ठभूमि</string>
+    <string name="accent_background_summary">पृष्ठभूमि के लिए एक अलग उच्चारण रंग चुनें</string>
+    <string name="bg_color_title">पृष्ठभूमि का रंग</string>
+    <string name="bg_color_summary">डिफ़ॉल्ट पृष्ठभूमि एक्सेंट रंग को ओवरराइड करें</string>
+    <string name="luminance_factor_title">luminance</string>
+    <string name="luminance_factor_summary">उच्च मान उज्जवल रंग उत्पन्न करते हैं</string>
+    <string name="chroma_factor_title">क्रोमा</string>
+    <string name="chroma_factor_summary">उच्च मूल्य मजबूत रंग उत्पन्न करते हैं</string>
+    <string name="tint_background_title">टिंट पृष्ठभूमि</string>
+    <string name="tint_background_summary">Luminance और Chroma चयन को पृष्ठभूमि के रंगों को भी प्रभावित करें</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">हमेशा डिस्प्ले शेड्यूल पर</string>
+    <string name="always_on_display_schedule_sunset">सूर्यास्त</string>
+    <string name="always_on_display_schedule_sunrise">सूर्योदय</string>
+    <string name="always_on_display_schedule_mixed_sunset">सूर्यास्त से एक समय तक चालू रहता है</string>
+    <string name="always_on_display_schedule_mixed_sunrise">एक समय से सूर्योदय तक चालू रहता है</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">फोर्स एलटीई सीए</string>
+    <string name="force_lte_ca_summary">LTE कैरियर एग्रीगेशन को काम करने के लिए फ़ोर्स करें</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">उलटा नेविगेशन बार लेआउट</string>
+    <string name="navbar_invert_info">नेविगेशन बार पर \"बैक\" और \"हाल के\" बटन स्वैप करें</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">ताज़ा दर कम करें</string>
+    <string name="battery_saver_refresh_rate_summary">बैटरी सेवर चालू होने पर बिजली बचाने के लिए 60 हर्ट्ज स्क्रीन रिफ्रेश रेट का उपयोग करें</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">क्यूएस पादलेख में दैनिक डेटा उपयोग</string>
+    <string name="qs_footer_datausage_summary">क्विक सेटिंग फ़ुटर में दैनिक डेटा उपयोग सारांश प्रदर्शित करें</string>
+</resources>
